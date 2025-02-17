@@ -1,0 +1,1001 @@
+Industry,Gender,Highest_Level_Of_Education_Completed,Average_Salary
+Academia,Man,Phd,58656.00
+Academia,Woman,"College Degree",32000.00
+Academia,Woman,"Master'S Degree",55185.70
+Academia,Woman,Phd,30785.00
+"Academic Medicine",Man,"College Degree",55000.00
+"Academic Publishing",Woman,"College Degree",64250.00
+"Academic Publishing",Woman,"Master'S Degree",43593.75
+"Academic Publishing",Woman,Phd,40800.00
+"Academic Research",Man,"College Degree",63500.00
+"Academic Research",Man,Phd,80000.00
+"Academic Research","Other or prefer not to answer",Phd,50402.50
+"Academic Research",Woman,"College Degree",36641.00
+"Academic Research",Woman,"Master'S Degree",41141.33
+"Academic Research",Woman,Phd,57000.00
+Accessibility,"Other or prefer not to answer","Master'S Degree",4000.00
+Accessibility,Woman,"College Degree",74000.00
+"Accounting, Banking & Finance",Man,"College Degree",97494.90
+"Accounting, Banking & Finance",Man,"High School",97545.80
+"Accounting, Banking & Finance",Man,"Master'S Degree",120490.50
+"Accounting, Banking & Finance",Man,Phd,205666.67
+"Accounting, Banking & Finance",Man,"Professional Degree (Md, Jd, Etc.)",124725.91
+"Accounting, Banking & Finance",Man,"Some College",69192.74
+"Accounting, Banking & Finance",Man,Unknown,60000.00
+"Accounting, Banking & Finance","Other or prefer not to answer","College Degree",71388.98
+"Accounting, Banking & Finance","Other or prefer not to answer","High School",46250.00
+"Accounting, Banking & Finance","Other or prefer not to answer","Master'S Degree",94803.06
+"Accounting, Banking & Finance","Other or prefer not to answer","Professional Degree (Md, Jd, Etc.)",96852.00
+"Accounting, Banking & Finance","Other or prefer not to answer","Some College",57083.33
+"Accounting, Banking & Finance","Other or prefer not to answer",Unknown,119824.24
+"Accounting, Banking & Finance",Woman,"College Degree",78605.72
+"Accounting, Banking & Finance",Woman,"High School",55334.30
+"Accounting, Banking & Finance",Woman,"Master'S Degree",97624.36
+"Accounting, Banking & Finance",Woman,Phd,112596.00
+"Accounting, Banking & Finance",Woman,"Professional Degree (Md, Jd, Etc.)",119529.03
+"Accounting, Banking & Finance",Woman,"Some College",62057.48
+"Accounting, Banking & Finance",Woman,Unknown,158818.89
+Actuarial,Woman,"College Degree",42640.00
+Administration,Woman,"College Degree",43190.40
+Administration,Woman,"Some College",48306.00
+"Adult Education",Woman,"College Degree",36990.70
+Aerospace,Man,"College Degree",154500.00
+Aerospace,Man,"Master'S Degree",155000.00
+Aerospace,Woman,"College Degree",79142.40
+Aerospace,Woman,"Master'S Degree",89666.67
+"Affordable Housing Real Estate Development (Nonprofit)",Woman,"Master'S Degree",144200.00
+"Agriculture Or Forestry",Man,"College Degree",76462.51
+"Agriculture Or Forestry",Man,"High School",97860.00
+"Agriculture Or Forestry",Man,Phd,91000.00
+"Agriculture Or Forestry",Man,"Some College",41806.50
+"Agriculture Or Forestry","Other or prefer not to answer","College Degree",58658.99
+"Agriculture Or Forestry","Other or prefer not to answer","Master'S Degree",41000.00
+"Agriculture Or Forestry","Other or prefer not to answer",Phd,294000.00
+"Agriculture Or Forestry","Other or prefer not to answer","Some College",309313.45
+"Agriculture Or Forestry",Woman,"College Degree",64653.52
+"Agriculture Or Forestry",Woman,"High School",48434.70
+"Agriculture Or Forestry",Woman,"Master'S Degree",73528.28
+"Agriculture Or Forestry",Woman,Phd,94825.00
+"Agriculture Or Forestry",Woman,"Some College",45688.13
+Airline,Woman,"College Degree",80000.00
+Americorps,Woman,"Master'S Degree",15400.00
+"Analytical Chemistry",Woman,"College Degree",56000.00
+"Analytical Lab",Woman,"College Degree",30368.00
+Analytics,Woman,"Master'S Degree",162000.00
+Animal,Woman,"College Degree",70232.83
+Animal,Woman,"Some College",72800.00
+Animation,Woman,"College Degree",55221.00
+Apparel,Woman,"College Degree",69000.00
+Apparel,Woman,"Master'S Degree",95500.00
+Archaeology,Man,"College Degree",60000.00
+Archaeology,"Other or prefer not to answer","Master'S Degree",110000.00
+Archaeology,Woman,"Master'S Degree",67000.00
+Architecture,Man,"College Degree",58000.00
+Architecture,Man,"Master'S Degree",150000.00
+Architecture,"Other or prefer not to answer","College Degree",50940.00
+Architecture,Woman,"College Degree",73225.00
+Architecture,Woman,"Master'S Degree",81724.57
+Architecture,Woman,"Professional Degree (Md, Jd, Etc.)",96333.33
+Archives,Woman,"College Degree",68000.10
+Archives,Woman,"Master'S Degree",57154.20
+Archives,Woman,Phd,50402.50
+"Art & Design",Man,"College Degree",74036.15
+"Art & Design",Man,"High School",52446.67
+"Art & Design",Man,"Master'S Degree",71869.00
+"Art & Design",Man,"Professional Degree (Md, Jd, Etc.)",34944.00
+"Art & Design",Man,"Some College",96196.00
+"Art & Design","Other or prefer not to answer","College Degree",59272.88
+"Art & Design","Other or prefer not to answer","High School",28000.00
+"Art & Design","Other or prefer not to answer","Master'S Degree",100000.00
+"Art & Design","Other or prefer not to answer","Some College",60440.00
+"Art & Design",Woman,"College Degree",69561.03
+"Art & Design",Woman,"Master'S Degree",115649.63
+"Art & Design",Woman,Phd,106666.67
+"Art & Design",Woman,"Professional Degree (Md, Jd, Etc.)",72916.67
+"Art & Design",Woman,"Some College",60208.10
+"Art & Design",Woman,Unknown,54.00
+"Association Management",Woman,"College Degree",58000.00
+"Association Management",Woman,"Master'S Degree",68000.00
+"Auction House",Woman,"College Degree",55000.00
+"Auction House",Woman,"Master'S Degree",20000.00
+Automotive,Man,"College Degree",80000.00
+Automotive,Man,"High School",62000.00
+Automotive,Man,"Master'S Degree",52140.00
+Automotive,Man,"Some College",77000.00
+Automotive,"Other or prefer not to answer","Master'S Degree",31200.00
+Automotive,Woman,"College Degree",83697.14
+Automotive,Woman,"High School",50000.00
+Automotive,Woman,"Master'S Degree",68100.00
+Automotive,Woman,Phd,229500.00
+Automotive,Woman,"Some College",39520.00
+Aviation,Man,"High School",28700.00
+Aviation,Woman,"College Degree",65500.00
+Aviation,Woman,"Master'S Degree",75000.00
+"Awards And Engraving",Woman,"High School",35000.00
+"Background Screening",Woman,"College Degree",69000.00
+"Background Screening",Woman,"Some College",115000.00
+Beauty,Woman,"College Degree",65543.75
+Beauty,Woman,"Master'S Degree",131000.00
+Beauty,Woman,"Some College",72800.00
+"Beer Sales",Man,"College Degree",60000.00
+"Beer Sales",Woman,"College Degree",70000.00
+"Behavioral Health",Man,"Professional Degree (Md, Jd, Etc.)",53560.00
+"Behavioral Health",Woman,"Master'S Degree",71208.00
+"Benefits Administration",Man,"College Degree",108000.00
+"Benefits Administration",Woman,"College Degree",89000.00
+Beverage,Man,"College Degree",52600.00
+Beverage,Woman,"Master'S Degree",85000.00
+Beverage,Woman,"Some College",40000.00
+"Big Pharma",Woman,Phd,220000.00
+"Bio Tech",Woman,"College Degree",107250.00
+"Bioinformatics ",Woman,"Master'S Degree",110000.00
+Biology,Man,"Some College",29000.00
+Biotech,Man,"College Degree",102498.17
+Biotech,Man,"Master'S Degree",92720.00
+Biotech,Man,Phd,145260.00
+Biotech,Man,"Some College",225000.00
+Biotech,"Other or prefer not to answer","College Degree",49000.00
+Biotech,"Other or prefer not to answer","Master'S Degree",92153.27
+Biotech,Woman,"College Degree",95487.31
+Biotech,Woman,"High School",107000.00
+Biotech,Woman,"Master'S Degree",103766.48
+Biotech,Woman,Phd,111860.60
+Biotech,Woman,"Some College",222000.00
+"Book Publishing",Woman,"College Degree",61333.33
+"Book Publishing",Woman,"Master'S Degree",47033.33
+"Brain Research",Woman,"College Degree",28000.00
+Brewing,Man,"College Degree",57000.00
+"Business Or Consulting",Man,"College Degree",100622.04
+"Business Or Consulting",Man,"High School",55690.00
+"Business Or Consulting",Man,"Master'S Degree",119216.41
+"Business Or Consulting",Man,Phd,159000.00
+"Business Or Consulting",Man,"Professional Degree (Md, Jd, Etc.)",165598.30
+"Business Or Consulting",Man,"Some College",124434.00
+"Business Or Consulting","Other or prefer not to answer","College Degree",63811.75
+"Business Or Consulting","Other or prefer not to answer","Master'S Degree",102025.00
+"Business Or Consulting","Other or prefer not to answer",Phd,141000.00
+"Business Or Consulting","Other or prefer not to answer","Professional Degree (Md, Jd, Etc.)",521160.00
+"Business Or Consulting","Other or prefer not to answer","Some College",24000.00
+"Business Or Consulting","Other or prefer not to answer",Unknown,83500.00
+"Business Or Consulting",Woman,"College Degree",89120.95
+"Business Or Consulting",Woman,"High School",55762.00
+"Business Or Consulting",Woman,"Master'S Degree",102419.11
+"Business Or Consulting",Woman,Phd,115712.18
+"Business Or Consulting",Woman,"Professional Degree (Md, Jd, Etc.)",140196.75
+"Business Or Consulting",Woman,"Some College",76055.28
+"Business Or Consulting",Woman,Unknown,105750.00
+Buyer,Woman,"Some College",76650.00
+"Call Center",Man,"College Degree",70000.00
+"Call Center",Woman,"Some College",25480.00
+"Cancer Research, Not For Profit",Woman,"Some College",71700.00
+Cannabis,Man,"College Degree",65000.00
+Cannabis,Woman,"College Degree",56313.33
+Cannabis,Woman,"Master'S Degree",87500.00
+Caregiver,Woman,"College Degree",33280.00
+Caregiver,Woman,"Master'S Degree",46800.00
+"Cbd Manufacturing",Woman,"College Degree",60000.00
+Chaplain,Woman,"Professional Degree (Md, Jd, Etc.)",40000.00
+Charity,Woman,"Some College",21750.00
+Chemical,"Other or prefer not to answer","College Degree",41766.00
+Chemical,"Other or prefer not to answer","Master'S Degree",70000.00
+Chemical,Woman,"College Degree",47902.00
+Chemical,Woman,"Master'S Degree",102000.00
+Chemical,Woman,Phd,112283.33
+Childcare,Man,"College Degree",25633.70
+Childcare,"Other or prefer not to answer","Some College",28100.00
+Childcare,Woman,"College Degree",30464.29
+Childcare,Woman,"Master'S Degree",72500.00
+Childcare,Woman,"Some College",38000.00
+"Clean Energy (Eg. Energy Efficiency, Renewables, Etc.)",Man,"Master'S Degree",200000.00
+Cleaning,Woman,"High School",41600.00
+Clergy,Man,"Master'S Degree",50000.00
+Clergy,Woman,"College Degree",43500.00
+Clergy,Woman,"Master'S Degree",59000.00
+Clergy,Woman,"Professional Degree (Md, Jd, Etc.)",108150.00
+"Clinical Research",Man,"College Degree",85000.00
+"Clinical Research",Woman,"College Degree",69487.67
+"Clinical Research",Woman,"Master'S Degree",79248.33
+Coaching,Woman,"Master'S Degree",44000.00
+"Coffee - Importing","Other or prefer not to answer","College Degree",95000.00
+"College Athletics",Woman,"College Degree",37500.00
+"Commercial Building Material Distribution",Man,"Some College",400000.00
+"Commercial Fisherman",Man,"Some College",26000.00
+"Commercial Furniture",Woman,"College Degree",53000.00
+"Commercial Furniture",Woman,"High School",40000.00
+"Commercial Furniture",Woman,"Some College",35000.00
+"Commercial Landscaping ",Woman,"Master'S Degree",42840.00
+"Commercial Real Estate",Woman,"College Degree",73027.21
+"Commercial Real Estate",Woman,"Master'S Degree",72000.00
+"Commercial Real Estate",Woman,"Some College",55000.00
+"Commodities Trading",Woman,"College Degree",75000.00
+Communications,Man,"College Degree",76500.00
+Communications,Woman,"College Degree",49470.62
+Communications,Woman,"Master'S Degree",23930.40
+Communications,Woman,Phd,90456.00
+Communications,Woman,"Some College",100000.00
+"Community Management",Woman,"Master'S Degree",84000.00
+"Community Management",Woman,"Some College",64000.00
+Compliance,Woman,"College Degree",54313.00
+Compliance,Woman,"Professional Degree (Md, Jd, Etc.)",97500.00
+"Computing Or Tech",Man,"College Degree",133739.70
+"Computing Or Tech",Man,"High School",112444.15
+"Computing Or Tech",Man,"Master'S Degree",137164.44
+"Computing Or Tech",Man,Phd,136561.13
+"Computing Or Tech",Man,"Professional Degree (Md, Jd, Etc.)",166360.00
+"Computing Or Tech",Man,"Some College",116196.03
+"Computing Or Tech",Man,Unknown,98555.32
+"Computing Or Tech","Other or prefer not to answer","College Degree",112283.03
+"Computing Or Tech","Other or prefer not to answer","High School",225769.00
+"Computing Or Tech","Other or prefer not to answer","Master'S Degree",129337.01
+"Computing Or Tech","Other or prefer not to answer",Phd,166850.00
+"Computing Or Tech","Other or prefer not to answer","Professional Degree (Md, Jd, Etc.)",100000.00
+"Computing Or Tech","Other or prefer not to answer","Some College",105797.86
+"Computing Or Tech","Other or prefer not to answer",Unknown,102291.00
+"Computing Or Tech",Woman,"College Degree",108565.82
+"Computing Or Tech",Woman,"High School",94119.63
+"Computing Or Tech",Woman,"Master'S Degree",115262.07
+"Computing Or Tech",Woman,Phd,134747.53
+"Computing Or Tech",Woman,"Professional Degree (Md, Jd, Etc.)",148201.02
+"Computing Or Tech",Woman,"Some College",92396.93
+"Computing Or Tech",Woman,Unknown,102041.79
+Concrete,Woman,"College Degree",44000.00
+Conservation,Man,"Master'S Degree",45000.00
+Construction,Man,"College Degree",60416.67
+Construction,Man,"High School",60000.00
+Construction,Man,"Some College",55880.00
+Construction,Woman,"College Degree",63536.86
+Construction,Woman,"High School",51031.00
+Construction,Woman,"Some College",74000.00
+Consulting,Man,"College Degree",60000.00
+Consulting,Man,"Master'S Degree",155000.00
+Consulting,Man,"Some College",250000.00
+Consulting,"Other or prefer not to answer","College Degree",50000.00
+Consulting,"Other or prefer not to answer","Master'S Degree",92000.00
+Consulting,Woman,"College Degree",69166.67
+Consulting,Woman,"Master'S Degree",177500.00
+"Consumer Food Products ",Woman,"Master'S Degree",145000.00
+"Consumer Goods",Man,"College Degree",62910.00
+"Consumer Goods",Man,"Master'S Degree",123500.00
+"Consumer Goods",Man,"Professional Degree (Md, Jd, Etc.)",160000.00
+"Consumer Goods",Woman,"College Degree",98672.75
+"Consumer Goods",Woman,"Master'S Degree",123633.33
+"Consumer Goods",Woman,Phd,115985.50
+"Consumer Goods",Woman,"Some College",147000.00
+"Contact Center",Woman,"College Degree",52425.00
+"Content Review - Copyright/Dmca",Man,"Some College",51000.00
+"Contract Research",Woman,"College Degree",62525.80
+"Contract Research",Woman,Phd,105000.00
+"Corporate Accounting In Death Care (Funeral & Cemetery)",Woman,"Master'S Degree",103000.00
+"Corporate Learning And Development",Woman,"Master'S Degree",80000.00
+"Corporate Service Management",Woman,"College Degree",66000.00
+"Corporate Sustainability",Woman,"College Degree",86000.00
+"Corporate Sustainability",Woman,"Master'S Degree",110000.00
+"Corporate Training",Woman,"Master'S Degree",280000.00
+"Corporate Travel Industry",Woman,"College Degree",91000.00
+"Cosmetology ",Woman,"Some College",80000.00
+"Costruction Admin",Woman,"Some College",26562.00
+Counselling,Woman,"Master'S Degree",45650.00
+"Cpg / Retail",Woman,"Master'S Degree",175000.00
+"Cpg / Retail",Woman,"Some College",68000.00
+"Cultural Heritage",Woman,"College Degree",56388.00
+"Cultural Heritage",Woman,"Master'S Degree",33515.00
+"Customer Service",Man,"College Degree",41600.00
+"Customer Service","Other or prefer not to answer","College Degree",40000.00
+"Customer Service","Other or prefer not to answer","Master'S Degree",207000.00
+"Customer Service",Woman,"College Degree",44429.67
+"Customer Service",Woman,Phd,64500.00
+"Customer Service",Woman,"Some College",55.00
+"Data Analytics",Man,"College Degree",55000.00
+"Data Breach",Man,"Some College",56410.00
+"Data Breach",Woman,"Some College",100000.00
+"Data Entry",Woman,"Some College",31000.00
+"Data/Institutional Research In Higher Education",Woman,"College Degree",57211.00
+"Daycare For Children Under 5 Years Old",Woman,"College Degree",12500.00
+Defense,Man,"College Degree",71000.00
+Defense,Woman,"College Degree",121833.33
+Defense,Woman,"High School",41250.00
+Defense,Woman,"Master'S Degree",114600.00
+Defense,Woman,Phd,86953.00
+"Delivery And Installation For Commercial Machinery",Man,"Some College",30000.00
+"Diagnostic Medical Devices",Man,"Master'S Degree",68000.00
+Digital,Man,"College Degree",100000.00
+Digital,Woman,"College Degree",60091.67
+"Direct Support  Professional  In A Group  Home",Man,"College Degree",32280.00
+"Disability Services ",Woman,"High School",26544.00
+Distribution,Woman,"College Degree",95000.00
+Distribution,Woman,"Master'S Degree",128000.00
+Distribution,Woman,"Some College",101000.00
+"Diversity, Equity & Inclu.S.Aion ",Woman,"College Degree",140000.00
+"Dod Contracting",Woman,"College Degree",93000.00
+"Drug Development ",Man,"Master'S Degree",147000.00
+E-Commerce,Man,"College Degree",125000.00
+E-Commerce,Woman,"College Degree",81834.29
+E-Commerce,Woman,"Master'S Degree",50083.33
+E-Commerce,Woman,"Professional Degree (Md, Jd, Etc.)",62500.00
+Eap,Woman,"College Degree",73000.00
+"Early Education","Other or prefer not to answer","College Degree",40000.00
+"Early Education",Woman,"College Degree",41333.33
+"Early Education",Woman,"Master'S Degree",111750.00
+Ecology,Woman,"Master'S Degree",64500.00
+Economics,Woman,Phd,96462.00
+"Ed Tech",Woman,"College Degree",66543.75
+"Ed Tech",Woman,"Some College",42000.00
+Education,Man,"College Degree",61588.77
+Education,Man,"High School",49941.43
+Education,Man,"Master'S Degree",72575.38
+Education,Man,Phd,107374.85
+Education,Man,"Professional Degree (Md, Jd, Etc.)",82761.00
+Education,Man,"Some College",52789.83
+Education,Man,Unknown,87552.00
+Education,"Other or prefer not to answer","College Degree",47947.36
+Education,"Other or prefer not to answer","High School",48000.00
+Education,"Other or prefer not to answer","Master'S Degree",57991.08
+Education,"Other or prefer not to answer",Phd,68429.82
+Education,"Other or prefer not to answer","Professional Degree (Md, Jd, Etc.)",63273.88
+Education,"Other or prefer not to answer","Some College",46000.00
+Education,"Other or prefer not to answer",Unknown,61036.00
+Education,Woman,"College Degree",54619.27
+Education,Woman,"High School",46065.94
+Education,Woman,"Master'S Degree",66856.60
+Education,Woman,Phd,77922.55
+Education,Woman,"Professional Degree (Md, Jd, Etc.)",78054.45
+Education,Woman,"Some College",47669.38
+Education,Woman,Unknown,55121.50
+"Education ",Woman,"Master'S Degree",100000.00
+"Emergency Management",Woman,"Master'S Degree",76000.00
+Energy,Man,"High School",47000.00
+Energy,Man,"Master'S Degree",132999.00
+Energy,Man,Phd,170000.00
+Energy,Man,"Professional Degree (Md, Jd, Etc.)",129315.00
+Energy,Man,"Some College",111333.33
+Energy,Man,Unknown,91520.00
+Energy,"Other or prefer not to answer",Unknown,70720.00
+Energy,Woman,"College Degree",101500.00
+Energy,Woman,"Master'S Degree",152642.86
+Energy,Woman,"Professional Degree (Md, Jd, Etc.)",148000.00
+Energy,Woman,"Some College",62000.00
+"Engineering Or Manufacturing",Man,"College Degree",94071.65
+"Engineering Or Manufacturing",Man,"High School",80984.48
+"Engineering Or Manufacturing",Man,"Master'S Degree",104077.93
+"Engineering Or Manufacturing",Man,Phd,130368.48
+"Engineering Or Manufacturing",Man,"Professional Degree (Md, Jd, Etc.)",94224.67
+"Engineering Or Manufacturing",Man,"Some College",87006.28
+"Engineering Or Manufacturing",Man,Unknown,75333.33
+"Engineering Or Manufacturing","Other or prefer not to answer","College Degree",88598.69
+"Engineering Or Manufacturing","Other or prefer not to answer","High School",44412.00
+"Engineering Or Manufacturing","Other or prefer not to answer","Master'S Degree",85628.81
+"Engineering Or Manufacturing","Other or prefer not to answer",Phd,104228.00
+"Engineering Or Manufacturing","Other or prefer not to answer","Some College",36594.00
+"Engineering Or Manufacturing","Other or prefer not to answer",Unknown,75000.00
+"Engineering Or Manufacturing",Woman,"College Degree",84136.15
+"Engineering Or Manufacturing",Woman,"High School",51946.83
+"Engineering Or Manufacturing",Woman,"Master'S Degree",101870.87
+"Engineering Or Manufacturing",Woman,Phd,114187.64
+"Engineering Or Manufacturing",Woman,"Professional Degree (Md, Jd, Etc.)",114955.00
+"Engineering Or Manufacturing",Woman,"Some College",55543.33
+"Engineering Or Manufacturing",Woman,Unknown,43280.00
+Entertainment,Man,"College Degree",108721.70
+Entertainment,Man,"High School",162480.00
+Entertainment,Man,"Master'S Degree",90951.83
+Entertainment,Man,"Some College",66590.00
+Entertainment,"Other or prefer not to answer","College Degree",327434.00
+Entertainment,"Other or prefer not to answer","High School",28875.00
+Entertainment,"Other or prefer not to answer","Master'S Degree",39936.00
+Entertainment,"Other or prefer not to answer","Professional Degree (Md, Jd, Etc.)",175000.00
+Entertainment,"Other or prefer not to answer","Some College",26250.00
+Entertainment,Woman,"College Degree",98003.65
+Entertainment,Woman,"High School",57229.17
+Entertainment,Woman,"Master'S Degree",74385.37
+Entertainment,Woman,Phd,107625.00
+Entertainment,Woman,"Professional Degree (Md, Jd, Etc.)",114985.00
+Entertainment,Woman,"Some College",128315.38
+Entertainment,Woman,Unknown,92916.67
+"Entrepreneur High Net Worth ",Woman,"High School",57500.00
+Environmental,Man,"College Degree",58676.80
+Environmental,Man,"Master'S Degree",78227.00
+Environmental,"Other or prefer not to answer","Master'S Degree",89000.00
+Environmental,Woman,"College Degree",78171.10
+Environmental,Woman,"High School",33440.20
+Environmental,Woman,"Master'S Degree",59819.71
+Environmental,Woman,Phd,66488.40
+Environmental,Woman,"Some College",45000.00
+"Executive Search",Woman,"College Degree",89000.00
+"Executive Search",Woman,"Master'S Degree",95000.00
+Facilities,Woman,"College Degree",48750.00
+Facilities,Woman,"Master'S Degree",65000.00
+Faith/Spirituality,Woman,"Master'S Degree",50328.00
+"Family Office",Woman,"College Degree",122500.00
+Fashion,Woman,"College Degree",79500.00
+Fashion,Woman,"Master'S Degree",68000.00
+"Fast Food","Other or prefer not to answer","College Degree",38188.00
+"Fast Food","Other or prefer not to answer","High School",31200.00
+"Fast Food",Woman,"College Degree",29120.00
+Federal,Man,"College Degree",70000.00
+Federal,Woman,"Master'S Degree",125500.00
+"Film Post-Production",Man,"College Degree",95000.00
+Finance,Man,"Master'S Degree",200000.00
+Finance,Woman,"College Degree",98547.75
+Finance,Woman,"Master'S Degree",110000.00
+Finance,Woman,"Professional Degree (Md, Jd, Etc.)",129000.00
+Fintech,Woman,"College Degree",88666.67
+Fintech,Woman,"Master'S Degree",110000.00
+"Fire Protection",Woman,"College Degree",70000.00
+"Fmcg Development",Man,"Master'S Degree",40655.00
+"Fmcg Development",Woman,"Master'S Degree",78000.00
+Food,Man,"College Degree",89000.00
+Food,Man,"Master'S Degree",69250.00
+Food,Man,Phd,78750.00
+Food,Man,"Some College",58146.67
+Food,"Other or prefer not to answer","College Degree",63940.00
+Food,"Other or prefer not to answer","Some College",20900.00
+Food,Woman,"College Degree",48380.85
+Food,Woman,"Master'S Degree",123017.14
+Food,Woman,Phd,85000.00
+Food,Woman,"Some College",60904.00
+"Forklift Operator Warehouse",Man,"High School",40560.00
+Freelance,Man,"College Degree",66000.00
+Fundraising,"Other or prefer not to answer","Some College",44000.00
+Fundraising,Woman,"College Degree",67500.00
+Fundraising,Woman,"High School",115000.00
+Fundraising,Woman,"Master'S Degree",116813.33
+"Funeral Service",Woman,"College Degree",36000.00
+"Funeral Service",Woman,"Master'S Degree",42634.00
+"Funeral Service",Woman,"Some College",48760.00
+"Game Development",Woman,"College Degree",83000.00
+"Game Development",Woman,"Master'S Degree",79960.00
+"Gaming (Gambling)",Man,"Master'S Degree",72000.00
+"Gaming (Gambling)","Other or prefer not to answer","College Degree",140000.00
+"Gaming (Gambling)",Woman,"College Degree",67660.00
+Geologist,Woman,Phd,181740.00
+Geospatial,Man,"Master'S Degree",88007.00
+"Global Mobility",Woman,"College Degree",57500.00
+"Global Mobility",Woman,"Master'S Degree",140000.00
+Government,Woman,"College Degree",83799.20
+Government,Woman,"Master'S Degree",90941.04
+Government,Woman,"Professional Degree (Md, Jd, Etc.)",250000.00
+Government,Woman,"Some College",100400.00
+"Government And Public Administration",Man,"College Degree",73040.17
+"Government And Public Administration",Man,"High School",85918.33
+"Government And Public Administration",Man,"Master'S Degree",89378.32
+"Government And Public Administration",Man,Phd,112752.00
+"Government And Public Administration",Man,"Professional Degree (Md, Jd, Etc.)",104373.32
+"Government And Public Administration",Man,"Some College",60615.01
+"Government And Public Administration",Man,Unknown,43750.00
+"Government And Public Administration","Other or prefer not to answer","College Degree",56153.46
+"Government And Public Administration","Other or prefer not to answer","High School",41250.00
+"Government And Public Administration","Other or prefer not to answer","Master'S Degree",68186.40
+"Government And Public Administration","Other or prefer not to answer",Phd,106843.80
+"Government And Public Administration","Other or prefer not to answer","Professional Degree (Md, Jd, Etc.)",78175.00
+"Government And Public Administration","Other or prefer not to answer","Some College",39053.70
+"Government And Public Administration",Woman,"College Degree",68153.21
+"Government And Public Administration",Woman,"High School",50547.30
+"Government And Public Administration",Woman,"Master'S Degree",82371.62
+"Government And Public Administration",Woman,Phd,107817.10
+"Government And Public Administration",Woman,"Professional Degree (Md, Jd, Etc.)",95353.92
+"Government And Public Administration",Woman,"Some College",53170.56
+"Government And Public Administration",Woman,Unknown,59970.97
+"Graduate Student",Man,"Master'S Degree",2350.00
+"Grantwriting Consultants",Woman,"Master'S Degree",94000.00
+"Grocery Distribution","Other or prefer not to answer","College Degree",52532.00
+"Grocery Distribution",Woman,"College Degree",50000.00
+"Grocery Distribution",Woman,"High School",52600.00
+"Hardware Manufacturing",Woman,"College Degree",95000.00
+"Haz/Ind/Rad Waste Management ",Woman,"College Degree",100000.00
+Health,Man,"College Degree",81185.34
+Health,Man,"High School",70833.33
+Health,Man,"Master'S Degree",89183.68
+Health,Man,Phd,171558.33
+Health,Man,"Professional Degree (Md, Jd, Etc.)",156754.92
+Health,Man,"Some College",84403.26
+Health,Man,Unknown,96428.00
+Health,"Other or prefer not to answer","College Degree",67937.45
+Health,"Other or prefer not to answer","High School",23000.00
+Health,"Other or prefer not to answer","Master'S Degree",126491.18
+Health,"Other or prefer not to answer",Phd,161000.00
+Health,"Other or prefer not to answer","Professional Degree (Md, Jd, Etc.)",127228.57
+Health,"Other or prefer not to answer","Some College",51059.20
+Health,"Other or prefer not to answer",Unknown,48520.00
+Health,Woman,"College Degree",69805.92
+Health,Woman,"High School",50926.15
+Health,Woman,"Master'S Degree",94365.31
+Health,Woman,Phd,120497.58
+Health,Woman,"Professional Degree (Md, Jd, Etc.)",153986.04
+Health,Woman,"Some College",52772.89
+Health,Woman,Unknown,129240.19
+Heritage,Woman,"Master'S Degree",33895.43
+"Historic Preservation",Woman,"Master'S Degree",75000.00
+Horticulture,Woman,"College Degree",37440.00
+Horticulture,Woman,"High School",31979.20
+"Hospitality & Events",Man,"College Degree",54945.43
+"Hospitality & Events",Man,"High School",48545.17
+"Hospitality & Events",Man,"Master'S Degree",103750.00
+"Hospitality & Events",Man,"Some College",68996.67
+"Hospitality & Events","Other or prefer not to answer","College Degree",37465.00
+"Hospitality & Events","Other or prefer not to answer","High School",20904.40
+"Hospitality & Events","Other or prefer not to answer","Some College",34127.50
+"Hospitality & Events",Woman,"College Degree",64727.37
+"Hospitality & Events",Woman,"High School",38096.00
+"Hospitality & Events",Woman,"Master'S Degree",92409.24
+"Hospitality & Events",Woman,Phd,115000.00
+"Hospitality & Events",Woman,"Professional Degree (Md, Jd, Etc.)",70312.50
+"Hospitality & Events",Woman,"Some College",47746.73
+"Household Services","Other or prefer not to answer","Master'S Degree",62400.00
+"Household Services",Woman,"College Degree",44000.00
+Hro,Woman,"College Degree",64000.00
+"Human Resources",Woman,"College Degree",47106.67
+"Human Resources",Woman,"Some College",57383.00
+"Human Resources",Woman,Unknown,40000.00
+"I Work For Indeed.Com",Woman,"College Degree",68000.00
+Immigration,Woman,"College Degree",30057.00
+"In-House Marketing",Woman,"College Degree",50328.00
+"Individual & Family Services",Woman,"Master'S Degree",55920.00
+Industrial,Man,"Some College",67000.00
+Industrial,Woman,"Master'S Degree",90000.00
+Industrial,Woman,"Some College",55000.00
+"Information Services",Man,"College Degree",70000.00
+"Information Services",Woman,"College Degree",74761.75
+"Information Services",Woman,"Master'S Degree",67165.60
+"Instructional Designer",Woman,"College Degree",92000.00
+"Instructional Designer",Woman,"Master'S Degree",52000.00
+Insurance,Man,"College Degree",100725.68
+Insurance,Man,"High School",93243.75
+Insurance,Man,"Master'S Degree",106033.90
+Insurance,Man,Phd,100327.43
+Insurance,Man,"Professional Degree (Md, Jd, Etc.)",24000.00
+Insurance,Man,"Some College",81803.90
+Insurance,"Other or prefer not to answer","College Degree",112287.70
+Insurance,"Other or prefer not to answer","Master'S Degree",40764.85
+Insurance,"Other or prefer not to answer","Professional Degree (Md, Jd, Etc.)",83200.00
+Insurance,"Other or prefer not to answer","Some College",38059.00
+Insurance,"Other or prefer not to answer",Unknown,35329.50
+Insurance,Woman,"College Degree",78174.06
+Insurance,Woman,"High School",56591.41
+Insurance,Woman,"Master'S Degree",91230.29
+Insurance,Woman,Phd,93269.00
+Insurance,Woman,"Professional Degree (Md, Jd, Etc.)",105084.83
+Insurance,Woman,"Some College",63704.63
+Insurance,Woman,Unknown,87500.00
+Intelligence,Woman,"College Degree",110000.00
+"Interior Design","Other or prefer not to answer","College Degree",40000.00
+"Interior Design",Woman,"Some College",41241.00
+"Internal Communications",Woman,"College Degree",100800.00
+"International Defence",Woman,"Master'S Degree",78000.00
+"International Development",Man,"College Degree",55000.00
+"International Development",Woman,"College Degree",71675.00
+"International Development",Woman,"Master'S Degree",113065.00
+"International Development",Woman,Phd,186150.00
+"International Development",Woman,"Professional Degree (Md, Jd, Etc.)",85000.00
+"International Development",Woman,Unknown,7013.50
+Internet,Woman,"Master'S Degree",90820.00
+Interpretation,Woman,"Master'S Degree",108600.00
+Investing,Woman,"Some College",58000.00
+Ipr,Woman,Phd,1095000.00
+It,Woman,"College Degree",63276.00
+It,Woman,"Master'S Degree",123600.00
+It,Woman,"Some College",60000.00
+"It ",Man,"Some College",116000.00
+Janitorial,"Other or prefer not to answer","High School",29120.00
+Journalism,Woman,"Master'S Degree",31200.00
+Labor,Woman,"Master'S Degree",105500.00
+Labor,Woman,"Professional Degree (Md, Jd, Etc.)",103996.00
+"Labor Union",Woman,"College Degree",113404.25
+"Labor Union",Woman,"Some College",81778.50
+"Laboratory Research",Man,"Master'S Degree",83200.00
+"Laboratory Research",Woman,"College Degree",48000.00
+"Laboratory Research",Woman,"Master'S Degree",43338.00
+Landscape,Woman,"College Degree",47920.00
+Landscape,Woman,"Master'S Degree",65375.00
+Landscape,Woman,"Some College",58240.00
+"Language Services","Other or prefer not to answer","Master'S Degree",70000.00
+"Language Services",Woman,"College Degree",87000.00
+"Laundry And Rental",Woman,"College Degree",62000.00
+Law,Man,"College Degree",74724.74
+Law,Man,"High School",50791.67
+Law,Man,"Master'S Degree",80610.00
+Law,Man,Phd,79950.00
+Law,Man,"Professional Degree (Md, Jd, Etc.)",180320.18
+Law,Man,"Some College",50112.40
+Law,Man,Unknown,118493.33
+Law,"Other or prefer not to answer","College Degree",48222.22
+Law,"Other or prefer not to answer","Master'S Degree",65066.25
+Law,"Other or prefer not to answer",Phd,161000.00
+Law,"Other or prefer not to answer","Professional Degree (Md, Jd, Etc.)",114498.00
+Law,"Other or prefer not to answer","Some College",43694.17
+Law,"Other or prefer not to answer",Unknown,103000.00
+Law,Woman,"College Degree",62040.82
+Law,Woman,"High School",54792.07
+Law,Woman,"Master'S Degree",89341.69
+Law,Woman,Phd,148788.94
+Law,Woman,"Professional Degree (Md, Jd, Etc.)",140595.81
+Law,Woman,"Some College",63014.63
+Law,Woman,Unknown,168000.00
+"Learning & Development",Man,"College Degree",62000.00
+"Learning & Development",Woman,Phd,68000.00
+"Legal Services",Woman,"Master'S Degree",98500.00
+"Legal Services",Woman,"Some College",23125.00
+"Leisure, Sport & Tourism",Man,"College Degree",77266.54
+"Leisure, Sport & Tourism",Man,"Master'S Degree",63625.00
+"Leisure, Sport & Tourism",Man,"Some College",36221.67
+"Leisure, Sport & Tourism","Other or prefer not to answer","College Degree",184.30
+"Leisure, Sport & Tourism",Woman,"College Degree",60725.30
+"Leisure, Sport & Tourism",Woman,"High School",31200.00
+"Leisure, Sport & Tourism",Woman,"Master'S Degree",85947.94
+"Leisure, Sport & Tourism",Woman,Phd,42000.00
+"Leisure, Sport & Tourism",Woman,"Professional Degree (Md, Jd, Etc.)",215000.00
+"Leisure, Sport & Tourism",Woman,"Some College",38352.42
+"Leisure, Sport & Tourism",Woman,Unknown,34320.00
+"Libraries / Archives / Information",Man,"College Degree",40000.00
+"Libraries / Archives / Information",Man,"Master'S Degree",55693.20
+"Libraries / Archives / Information","Other or prefer not to answer","College Degree",33500.00
+"Libraries / Archives / Information","Other or prefer not to answer","Master'S Degree",50029.15
+"Libraries / Archives / Information","Other or prefer not to answer","Some College",21486.00
+"Libraries / Archives / Information",Woman,"College Degree",39880.09
+"Libraries / Archives / Information",Woman,"High School",20200.00
+"Libraries / Archives / Information",Woman,"Master'S Degree",59999.06
+"Libraries / Archives / Information",Woman,Phd,58222.50
+"Libraries / Archives / Information",Woman,"Some College",39314.25
+"Libraries / Archives / Information",Woman,Unknown,40000.00
+"Life Sciences",Man,Phd,90625.00
+"Life Sciences",Woman,"College Degree",62000.00
+"Life Sciences",Woman,"Master'S Degree",106266.67
+"Life Sciences",Woman,Phd,92723.00
+Literature,Woman,Phd,37746.00
+"Lobbying And Consulting",Man,"Master'S Degree",55920.00
+"Lobbying And Consulting",Woman,"College Degree",75000.00
+Logistics,Woman,"College Degree",72775.00
+"Low-Voltage Equipment",Man,"College Degree",45000.00
+Maintenance,Man,"College Degree",87000.00
+"Management ",Woman,"College Degree",67204.50
+"Management ",Woman,"Master'S Degree",83000.00
+"Management Consulting",Woman,"College Degree",180000.00
+"Management Consulting",Woman,Unknown,180000.00
+Manufacturing,Man,"College Degree",73707.50
+Manufacturing,Man,"Master'S Degree",71625.00
+Manufacturing,Man,"Some College",40476.00
+Manufacturing,"Other or prefer not to answer","College Degree",60800.00
+Manufacturing,Woman,"College Degree",73810.87
+Manufacturing,Woman,"High School",65093.75
+Manufacturing,Woman,"Master'S Degree",89630.07
+Manufacturing,Woman,Phd,89620.00
+Manufacturing,Woman,"Professional Degree (Md, Jd, Etc.)",77412.00
+Manufacturing,Woman,"Some College",64000.00
+Maritime,Man,"Some College",67580.00
+"Marketing, Advertising & Pr",Man,"College Degree",89666.24
+"Marketing, Advertising & Pr",Man,"High School",126666.67
+"Marketing, Advertising & Pr",Man,"Master'S Degree",81386.42
+"Marketing, Advertising & Pr",Man,Phd,185000.00
+"Marketing, Advertising & Pr",Man,"Professional Degree (Md, Jd, Etc.)",67000.00
+"Marketing, Advertising & Pr",Man,"Some College",89447.27
+"Marketing, Advertising & Pr",Man,Unknown,14460.00
+"Marketing, Advertising & Pr","Other or prefer not to answer","College Degree",61063.54
+"Marketing, Advertising & Pr","Other or prefer not to answer","Master'S Degree",105251.14
+"Marketing, Advertising & Pr","Other or prefer not to answer","Professional Degree (Md, Jd, Etc.)",40000.00
+"Marketing, Advertising & Pr","Other or prefer not to answer","Some College",135000.00
+"Marketing, Advertising & Pr","Other or prefer not to answer",Unknown,82500.00
+"Marketing, Advertising & Pr",Woman,"College Degree",82232.87
+"Marketing, Advertising & Pr",Woman,"High School",72933.25
+"Marketing, Advertising & Pr",Woman,"Master'S Degree",90177.89
+"Marketing, Advertising & Pr",Woman,Phd,98886.67
+"Marketing, Advertising & Pr",Woman,"Professional Degree (Md, Jd, Etc.)",66125.00
+"Marketing, Advertising & Pr",Woman,"Some College",67209.73
+"Marketing, Advertising & Pr",Woman,Unknown,84087.00
+"Media & Digital",Man,"College Degree",86565.47
+"Media & Digital",Man,"High School",57950.00
+"Media & Digital",Man,"Master'S Degree",115623.42
+"Media & Digital",Man,"Professional Degree (Md, Jd, Etc.)",123300.00
+"Media & Digital",Man,"Some College",102568.64
+"Media & Digital",Man,Unknown,120000.00
+"Media & Digital","Other or prefer not to answer","College Degree",68511.56
+"Media & Digital","Other or prefer not to answer","Master'S Degree",72356.25
+"Media & Digital","Other or prefer not to answer","Professional Degree (Md, Jd, Etc.)",92000.00
+"Media & Digital","Other or prefer not to answer","Some College",63750.00
+"Media & Digital","Other or prefer not to answer",Unknown,43750.00
+"Media & Digital",Woman,"College Degree",75946.19
+"Media & Digital",Woman,"High School",69461.00
+"Media & Digital",Woman,"Master'S Degree",80477.24
+"Media & Digital",Woman,Phd,99053.57
+"Media & Digital",Woman,"Professional Degree (Md, Jd, Etc.)",105744.44
+"Media & Digital",Woman,"Some College",78490.58
+"Media & Digital",Woman,Unknown,61414.22
+Medical,Man,Phd,43524.00
+Medical,"Other or prefer not to answer","College Degree",43000.00
+Medical,"Other or prefer not to answer","Master'S Degree",66000.00
+Medical,Woman,"College Degree",61251.00
+Medical,Woman,"High School",65007.00
+Medical,Woman,"Master'S Degree",109790.00
+Medical,Woman,Phd,95416.67
+"Medical Devices",Man,"Master'S Degree",96000.00
+"Medical Devices",Woman,"College Degree",86718.33
+"Medical Devices",Woman,Phd,130000.00
+"Mental Health",Woman,"Master'S Degree",55896.67
+"Mental Health ",Woman,Phd,30000.00
+Military,Man,"College Degree",3094.00
+Military,Woman,"College Degree",83000.00
+"Military ",Man,"College Degree",55000.00
+"Military ",Woman,"High School",125000.00
+"Mining/Mineral Exploration",Man,"College Degree",57182.50
+"Mining/Mineral Exploration",Man,"High School",84500.00
+"Mining/Mineral Exploration",Man,"Master'S Degree",106808.00
+"Mining/Mineral Exploration",Woman,"College Degree",73195.88
+"Mining/Mineral Exploration",Woman,"High School",52582.40
+"Mining/Mineral Exploration",Woman,"Master'S Degree",59000.00
+"Mining/Mineral Exploration",Woman,"Some College",64854.00
+Ministry,Man,"College Degree",42000.00
+Ministry,Woman,"College Degree",32000.00
+Ministry,Woman,"Master'S Degree",59750.00
+Mortgage,Woman,"College Degree",50000.00
+Mortgage,Woman,"High School",49000.00
+"Multilateral Organisation ",Man,"Master'S Degree",250000.00
+"Municipal Library",Woman,"Master'S Degree",61317.67
+Museums,Man,"College Degree",51150.00
+Museums,Man,"Master'S Degree",44365.43
+Museums,Man,Phd,128000.00
+Museums,Woman,"College Degree",38553.33
+Museums,Woman,"Master'S Degree",51435.29
+Museums,Woman,Phd,60000.00
+Music,Man,"College Degree",65000.00
+Music,Man,"Master'S Degree",58000.00
+Music,Woman,"College Degree",56000.00
+Music,Woman,"Master'S Degree",50000.00
+"National Laboratory",Woman,Phd,115000.00
+"Natural Resources",Woman,"College Degree",50000.00
+"Natural Resources",Woman,"Master'S Degree",56997.00
+Nonprofits,Man,"College Degree",79072.02
+Nonprofits,Man,"High School",47730.00
+Nonprofits,Man,"Master'S Degree",78698.04
+Nonprofits,Man,Phd,91167.50
+Nonprofits,Man,"Professional Degree (Md, Jd, Etc.)",130000.00
+Nonprofits,Man,"Some College",69180.93
+Nonprofits,Man,Unknown,45715.70
+Nonprofits,"Other or prefer not to answer","College Degree",50781.45
+Nonprofits,"Other or prefer not to answer","Master'S Degree",65714.47
+Nonprofits,"Other or prefer not to answer",Phd,91536.17
+Nonprofits,"Other or prefer not to answer","Professional Degree (Md, Jd, Etc.)",62833.33
+Nonprofits,"Other or prefer not to answer","Some College",48347.61
+Nonprofits,"Other or prefer not to answer",Unknown,64250.00
+Nonprofits,Woman,"College Degree",65462.43
+Nonprofits,Woman,"High School",41982.54
+Nonprofits,Woman,"Master'S Degree",73486.54
+Nonprofits,Woman,Phd,82413.87
+Nonprofits,Woman,"Professional Degree (Md, Jd, Etc.)",100368.16
+Nonprofits,Woman,"Some College",65533.14
+Nonprofits,Woman,Unknown,64366.70
+"Nuclear Research",Man,"College Degree",122000.00
+"Office Administration",Woman,"College Degree",41000.00
+"Office Administration",Woman,"Some College",36400.00
+"Oil & Gas",Man,"College Degree",265125.00
+"Oil & Gas",Man,"Master'S Degree",91348.33
+"Oil & Gas",Man,Phd,89807.20
+"Oil & Gas",Man,"Some College",120000.00
+"Oil & Gas",Woman,"College Degree",84863.20
+"Oil & Gas",Woman,"Master'S Degree",113408.57
+"Oil & Gas",Woman,"Some College",55837.20
+"Online Learning",Woman,"College Degree",59000.00
+"Online Learning",Woman,"Master'S Degree",41392.00
+Operations,Woman,"College Degree",77500.00
+"Organizational Development ",Woman,"Master'S Degree",69270.90
+"Outdoor Industry/Repair And Maintenance",Woman,"Some College",37000.00
+"Outsourcing Services ",Man,"Some College",90000.00
+"Outsourcing Services ",Woman,"High School",2496.00
+"Parking ",Woman,"High School",63000.00
+"Parks And Recreation, Land Management But With Customer Service Included",Woman,"Some College",27460.00
+"Patent Translation",Woman,"College Degree",36697.50
+"Payment Processing",Woman,"College Degree",51156.30
+"Payroll Software",Woman,"College Degree",51001.00
+"Pension Benefit Administration",Man,"Some College",72000.00
+"Per Sitter",Woman,"College Degree",43800.00
+"Performing Arts",Woman,"College Degree",41500.00
+"Pet Care","Other or prefer not to answer","Some College",25000.00
+"Pet Care",Woman,"College Degree",50750.00
+"Pet Care",Woman,"Master'S Degree",41600.00
+"Pet Care",Woman,"Some College",35360.00
+Petroleum,Woman,"Master'S Degree",220000.00
+Pharmaceutical,Man,"College Degree",91840.00
+Pharmaceutical,Man,"Master'S Degree",137333.33
+Pharmaceutical,Man,Phd,140696.43
+Pharmaceutical,Man,"Professional Degree (Md, Jd, Etc.)",122000.00
+Pharmaceutical,"Other or prefer not to answer","College Degree",107000.00
+Pharmaceutical,"Other or prefer not to answer","Master'S Degree",61936.00
+Pharmaceutical,Woman,"College Degree",95016.86
+Pharmaceutical,Woman,"Master'S Degree",126279.23
+Pharmaceutical,Woman,Phd,134447.43
+Pharmaceutical,Woman,"Professional Degree (Md, Jd, Etc.)",189333.33
+Pharmaceutical,Woman,"Some College",70427.75
+Phd,Man,"Master'S Degree",23750.00
+Philanthropy,Woman,"College Degree",71283.33
+Philanthropy,Woman,"Master'S Degree",76000.00
+Philanthropy,Woman,Phd,65000.00
+"Philanthropy ",Woman,"College Degree",114000.00
+"Philanthropy ",Woman,"Master'S Degree",93833.33
+"Physical Sciences",Man,Phd,103000.00
+Planning,Woman,Unknown,72000.00
+Plumbing,Man,"High School",1590.00
+Plumbing,Man,Unknown,1590.00
+"Policy Research",Woman,"Master'S Degree",82000.00
+Politics,Man,"College Degree",72000.00
+Politics,Man,"Master'S Degree",90000.00
+Politics,"Other or prefer not to answer","College Degree",71000.00
+Politics,Woman,"College Degree",69590.91
+Politics,Woman,"Master'S Degree",69000.00
+Politics,Woman,"Professional Degree (Md, Jd, Etc.)",75000.00
+Politics,Woman,"Some College",48000.00
+"Preclinical Research",Woman,"College Degree",82000.00
+"Print Distributor ",Man,"College Degree",68500.00
+"Print Distributor ",Woman,"College Degree",62500.00
+Printing,Man,"College Degree",40000.00
+Printing,Woman,"College Degree",61360.00
+"Private Equity",Woman,"College Degree",106500.00
+"Private Investigator At Large Firm",Woman,"College Degree",56000.00
+"Private Sector Emergency Management",Woman,"Master'S Degree",115000.00
+Probiotics,Man,"Professional Degree (Md, Jd, Etc.)",27500.00
+Procurement,Woman,"College Degree",73250.00
+"Procurement ",Woman,"Master'S Degree",72960.00
+"Product Management",Man,"Master'S Degree",115000.00
+"Product Management",Woman,Phd,134125.00
+"Production And Manufacturing",Woman,"College Degree",65000.00
+"Professional Services",Woman,"College Degree",74290.71
+"Professional Services",Woman,"Master'S Degree",66486.67
+"Project Management ",Woman,"College Degree",60000.00
+"Property Or Construction",Man,"College Degree",83576.83
+"Property Or Construction",Man,"High School",55575.00
+"Property Or Construction",Man,"Master'S Degree",90840.22
+"Property Or Construction",Man,"Professional Degree (Md, Jd, Etc.)",63000.00
+"Property Or Construction",Man,"Some College",53632.44
+"Property Or Construction","Other or prefer not to answer","College Degree",50653.60
+"Property Or Construction","Other or prefer not to answer","High School",37500.00
+"Property Or Construction","Other or prefer not to answer","Master'S Degree",110500.00
+"Property Or Construction","Other or prefer not to answer",Unknown,55000.00
+"Property Or Construction",Woman,"College Degree",69899.45
+"Property Or Construction",Woman,"High School",50220.24
+"Property Or Construction",Woman,"Master'S Degree",79699.39
+"Property Or Construction",Woman,"Professional Degree (Md, Jd, Etc.)",73416.67
+"Property Or Construction",Woman,"Some College",57362.96
+"Property Or Construction",Woman,Unknown,66950.00
+"Protective Coatings",Man,"Some College",56000.00
+Psychology,Man,Phd,60000.00
+Psychology,Woman,Phd,120000.00
+"Public Affairs / Pr ",Woman,"College Degree",88000.00
+"Public Health","Other or prefer not to answer","College Degree",56000.00
+"Public Health","Other or prefer not to answer","Master'S Degree",65949.00
+"Public Health",Woman,"College Degree",87000.00
+"Public Health",Woman,"Master'S Degree",76498.17
+"Public Health",Woman,Phd,80875.00
+"Public Health",Woman,Unknown,60000.00
+"Public Health ",Man,"Master'S Degree",50500.00
+"Public Health ",Woman,"Master'S Degree",61000.00
+"Public Library",Man,"College Degree",82700.00
+"Public Library",Man,"Master'S Degree",56000.00
+"Public Library",Man,"Professional Degree (Md, Jd, Etc.)",40000.00
+"Public Library","Other or prefer not to answer","College Degree",33365.50
+"Public Library","Other or prefer not to answer","Master'S Degree",60985.00
+"Public Library","Other or prefer not to answer","Some College",28000.00
+"Public Library",Woman,"College Degree",42732.11
+"Public Library",Woman,"Master'S Degree",57505.22
+"Public Library",Woman,"Professional Degree (Md, Jd, Etc.)",67500.00
+"Public Library",Woman,Unknown,40450.00
+"Public Policy",Woman,"College Degree",53080.00
+"Public Research",Woman,"Master'S Degree",72000.00
+"Public Research",Woman,Phd,100000.00
+"Public Safety",Woman,"High School",35360.00
+"Public Safety ",Woman,"College Degree",82550.00
+Publishing,Man,"College Degree",120350.00
+Publishing,Man,"Master'S Degree",40540.00
+Publishing,"Other or prefer not to answer","College Degree",51500.00
+Publishing,"Other or prefer not to answer",Phd,37000.00
+Publishing,"Other or prefer not to answer",Unknown,65000.00
+Publishing,Woman,"College Degree",57948.97
+Publishing,Woman,"Master'S Degree",50466.85
+Publishing,Woman,Phd,62400.00
+Publishing,Woman,"Some College",83500.00
+Purchasing,Woman,"College Degree",86200.00
+"Purchasing ",Woman,"Some College",55000.00
+"Quality Assurance",Man,"College Degree",38700.00
+"Quality Assurance",Woman,"College Degree",45085.50
+R&D,Woman,"College Degree",60000.00
+R&D,Woman,"Master'S Degree",160000.00
+"Real Estate ",Man,"College Degree",120000.00
+"Real Estate ",Man,"Master'S Degree",105840.00
+"Real Estate ",Man,"Some College",58722.50
+"Real Estate ","Other or prefer not to answer","College Degree",31200.00
+"Real Estate ","Other or prefer not to answer","High School",38563.00
+"Real Estate ",Woman,"College Degree",54098.04
+"Real Estate ",Woman,"High School",63000.00
+"Real Estate ",Woman,"Master'S Degree",99350.00
+"Real Estate ",Woman,"Some College",68504.00
+"Real World Evidence (Data For Pharma Research)",Man,"Master'S Degree",181290.00
+"Recruitment Or Hr",Man,"College Degree",80643.33
+"Recruitment Or Hr",Man,"High School",68645.00
+"Recruitment Or Hr",Man,"Master'S Degree",103428.57
+"Recruitment Or Hr",Man,Phd,45000.00
+"Recruitment Or Hr",Man,"Some College",64284.00
+"Recruitment Or Hr","Other or prefer not to answer","College Degree",63020.25
+"Recruitment Or Hr","Other or prefer not to answer","Master'S Degree",73504.06
+"Recruitment Or Hr",Woman,"College Degree",75529.05
+"Recruitment Or Hr",Woman,"High School",51601.92
+"Recruitment Or Hr",Woman,"Master'S Degree",81911.40
+"Recruitment Or Hr",Woman,Phd,101624.75
+"Recruitment Or Hr",Woman,"Professional Degree (Md, Jd, Etc.)",93540.00
+"Recruitment Or Hr",Woman,"Some College",71630.86
+"Recruitment Or Hr",Woman,Unknown,84333.33
+"Regulatory Affairs",Man,"College Degree",75000.00
+"Regulatory Affairs",Woman,"College Degree",70980.00
+Religion,Man,"College Degree",53000.00
+Religion,Man,"Professional Degree (Md, Jd, Etc.)",100000.00
+Religion,Woman,"College Degree",43775.00
+Religion,Woman,"Master'S Degree",55360.00
+"Renewable Energy",Man,"Professional Degree (Md, Jd, Etc.)",170000.00
+"Renewable Energy","Other or prefer not to answer","College Degree",71077.00
+"Renewable Energy",Woman,"College Degree",112000.00
+"Renewable Energy",Woman,"Master'S Degree",85532.50
+"Repair Facility For Heavy Duty Trucks","Other or prefer not to answer","High School",65000.00
+Research,Man,"College Degree",47840.00
+Research,Man,"Master'S Degree",41940.00
+Research,Man,Phd,65492.24
+Research,"Other or prefer not to answer","College Degree",87000.00
+Research,Woman,"College Degree",59292.17
+Research,Woman,"Master'S Degree",69323.23
+Research,Woman,Phd,95944.18
+Research,Woman,"Some College",62160.00
+"Restaurant/Food Service",Man,"High School",29120.00
+"Restaurant/Food Service",Man,"Some College",15080.00
+"Restaurant/Food Service","Other or prefer not to answer","College Degree",21808.80
+"Restaurant/Food Service","Other or prefer not to answer","Some College",55000.00
+"Restaurant/Food Service",Woman,"College Degree",80840.00
+"Restaurant/Food Service",Woman,"Some College",38000.00
+Restoration,Woman,"College Degree",184000.00
+Retail,Man,"College Degree",68409.24
+Retail,Man,"High School",38146.89
+Retail,Man,"Master'S Degree",149723.23
+Retail,Man,Phd,107120.00
+Retail,Man,"Professional Degree (Md, Jd, Etc.)",91750.00
+Retail,Man,"Some College",47362.51
+Retail,Man,Unknown,43338.00
+Retail,"Other or prefer not to answer","College Degree",48249.33
+Retail,"Other or prefer not to answer","High School",24672.36
+Retail,"Other or prefer not to answer","Master'S Degree",45670.00
+Retail,"Other or prefer not to answer","Some College",35786.54
+Retail,"Other or prefer not to answer",Unknown,27600.00
+Retail,Woman,"College Degree",60486.33
+Retail,Woman,"High School",38869.93
+Retail,Woman,"Master'S Degree",74115.57
+Retail,Woman,Phd,39520.00
+Retail,Woman,"Professional Degree (Md, Jd, Etc.)",39414.79
+Retail,Woman,"Some College",45741.40
+Retail,Woman,Unknown,40116.27
+Retired,Woman,"College Degree",13000.00
+Rideshare,Woman,"College Degree",48000.00
+"Rural Electrification",Woman,"College Degree",60000.00
+Saas,Man,"College Degree",72809.50
+Saas,Woman,"College Degree",111840.00
+"Sailing Instructor",Woman,"High School",41600.00
+Sales,Man,"College Degree",109855.19
+Sales,Man,"High School",58306.12
+Sales,Man,"Master'S Degree",90029.55
+Sales,Man,Phd,100000.00
+Sales,Man,"Some College",89197.50
+Sales,Man,Unknown,105596.67
+Sales,"Other or prefer not to answer","College Degree",35250.00
+Sales,"Other or prefer not to answer","Some College",40932.00
+Sales,Woman,"College Degree",68486.73
+Sales,Woman,"High School",74131.00
+Sales,Woman,"Master'S Degree",105634.57
+Sales,Woman,Phd,72400.00
+Sales,Woman,"Professional Degree (Md, Jd, Etc.)",82815.00
+Sales,Woman,"Some College",72681.81
+Sales,Woman,Unknown,28093.15
+"School District Pre-K-12",Woman,"Master'S Degree",40200.00
+Science/Research,Man,"College Degree",84250.00
+Science/Research,Man,"Master'S Degree",180000.00
+Science/Research,Man,Phd,80136.50
+Science/Research,"Other or prefer not to answer","College Degree",30756.00
+Science/Research,"Other or prefer not to answer","Master'S Degree",56763.00
+Science/Research,Woman,"College Degree",51248.13
+Science/Research,Woman,"Master'S Degree",61818.07
+Science/Research,Woman,Phd,86464.40
+Science/Research,Woman,"Some College",31200.00
+Security,Woman,"College Degree",46514.00
+Security,Woman,"Some College",50000.00
+Service,Woman,"Some College",60500.00
+"Shared Office Space",Woman,"College Degree",48000.00
+"Sign Language Interpreter, Community",Woman,"College Degree",124800.00
+"Skilled Trade ",Woman,"Some College",55920.00

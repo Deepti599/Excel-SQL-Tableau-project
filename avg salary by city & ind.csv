@@ -1,0 +1,1001 @@
+City,Industry,Avg_Salary
+" Berkley Heights ","Recruitment Or Hr",90000.00
+" Boston ",Government,68000.00
+" Byron Bay",Education,49296.00
+" Charlottesville","Accounting, Banking & Finance",87000.00
+" Rural Florida Panhandle",Education,33280.00
+" Unknown ","Media & Digital",44000.00
+" Ventura ",Law,48800.00
+Aachen,"Computing Or Tech",63440.00
+Abbotsford,Law,66405.00
+Abbotsford,Education,56269.50
+Aberdeen,"Government And Public Administration",73966.25
+Aberdeen,"Accounting, Banking & Finance",68556.00
+Aberdeen,"Engineering Or Manufacturing",66250.00
+Aberdeen,"Oil & Gas",63750.00
+Aberdeen,"Computing Or Tech",50375.00
+Aberdeen,Sales,40000.00
+Aberdeen,Health,34000.00
+Aberdeen,Retail,31200.00
+Aberdeen,Nonprofits,29484.40
+Aberdeen,Education,28750.00
+"Aberdeen ","Engineering Or Manufacturing",76250.00
+"Aberdeen ","Utilities & Telecommunications",34500.00
+"Aberdeen Proving Ground","Government And Public Administration",75176.00
+Aberdeenshire,Retail,50000.00
+Abidjan,Energy,67500.00
+Abilene,Manufacturing,95000.00
+Abilene,Health,50000.00
+"Abilene ","Property Or Construction",41600.00
+Abington,Health,56000.00
+"Abington ",Health,43000.00
+Accra,"Transport Or Logistics",132000.00
+Accra,Nonprofits,82583.00
+Accra,"Computing Or Tech",500.00
+"Acton, Ma",Education,82000.00
+Adairsville,"Engineering Or Manufacturing",45760.00
+Addis,"Engineering Or Manufacturing",86000.00
+Addison,"Computing Or Tech",130625.00
+Adelaide,"Computing Or Tech",84372.00
+Adelaide,"Engineering Or Manufacturing",65096.00
+Adelaide,"Media & Digital",61936.00
+Adelaide,Education,58000.70
+Adelaide,"Government And Public Administration",56260.64
+Adelaide,"Hospitality & Events",56248.00
+Adelaide,Law,53720.00
+Adelaide,Retail,45504.00
+Adelaide,Health,44872.00
+Adelaide,"Accounting, Banking & Finance",42849.60
+Adelaide,Nonprofits,41080.00
+Adelaide,Science/Research,41080.00
+Adelaide,"Agriculture Or Forestry",32085.40
+Adelaide,"Leisure, Sport & Tourism",31600.00
+"Adelaide ",Nonprofits,43491.70
+"Adelaide, South Australia",Nonprofits,44240.00
+"Affluent Chicago Suburb","Computing Or Tech",140000.00
+Agawam,Nonprofits,95000.00
+Agawam,Education,20000.00
+Aguadilla,Sales,16000.00
+Aiken,"Engineering Or Manufacturing",146500.00
+Aiken,"National Laboratory",115000.00
+Aiken,"Cultural Heritage",30000.00
+Aiken,Retail,29640.00
+"Ainsworth ",Health,33800.00
+Airdrie,Education,37746.00
+Akron,Nonprofits,93000.00
+Akron,"Engineering Or Manufacturing",86000.00
+Akron,"Computing Or Tech",74500.00
+Akron,"Accounting, Banking & Finance",66000.00
+Akron,"Utilities & Telecommunications",54000.00
+Akron,"Government And Public Administration",53017.67
+Akron,Health,52306.67
+Akron,Education,35000.00
+"Akron, Ohio",Education,38500.00
+"Al Khobar","Oil & Gas",107045.00
+Alabama,"Art & Design",64000.00
+"Alabama ","Computing Or Tech",35000.00
+Alameda,"Engineering Or Manufacturing",112333.33
+Alameda,Biotech,93000.00
+Alameda,Beauty,72800.00
+Alamogordo,Education,60000.00
+"Alamogordo ",Nonprofits,42000.00
+Albany,"Marketing, Advertising & Pr",106000.00
+Albany,Health,102580.00
+Albany,Pharmaceutical,94880.00
+Albany,"Computing Or Tech",88327.25
+Albany,Law,85500.00
+Albany,"Transport Or Logistics",80700.00
+Albany,"Engineering Or Manufacturing",79784.80
+Albany,"Government And Public Administration",78168.41
+Albany,"Accounting, Banking & Finance",70000.00
+Albany,Nonprofits,62641.67
+Albany,"Learning & Development",62000.00
+Albany,"Utilities & Telecommunications",60900.00
+Albany,"Libraries / Archives / Information",60000.00
+Albany,Education,51018.75
+Albany,Unknown,36000.00
+Albany,Retail,35360.00
+Albany,"Fast Food",31200.00
+Albany,Entertainment,14000.00
+"Albany ","Computing Or Tech",180000.00
+"Albany ","Government And Public Administration",95000.00
+"Albany ","Business Or Consulting",66250.00
+"Albany Region",Education,36000.00
+"Albany-Schenectady-Troy Metro Area",Education,64000.00
+"Albany, Ny","Media & Digital",125000.00
+"Albany, Ny",Education,48500.00
+Albemarle,"Government And Public Administration",62000.00
+Alberta,"Business Or Consulting",55920.00
+Alberta,Retail,38445.00
+Alberta,"Utilities & Telecommunications",38025.60
+Alberta,"Accounting, Banking & Finance",36697.50
+Albuquerque,Science/Research,131000.00
+Albuquerque,"Computing Or Tech",107150.00
+Albuquerque,"Engineering Or Manufacturing",106000.00
+Albuquerque,"Transport Or Logistics",99166.67
+Albuquerque,"Business Or Consulting",89000.00
+Albuquerque,"Government And Public Administration",82118.33
+Albuquerque,Insurance,78833.33
+Albuquerque,"Property Or Construction",67500.00
+Albuquerque,"Accounting, Banking & Finance",64500.00
+Albuquerque,Health,60046.67
+Albuquerque,Architecture,60000.00
+Albuquerque,Education,58915.86
+Albuquerque,Law,58840.00
+Albuquerque,"Libraries / Archives / Information",49500.00
+Albuquerque,"Social Work",47500.00
+Albuquerque,Nonprofits,43500.00
+Albuquerque,Retail,20800.00
+"Albuquerque ",Law,160000.00
+"Albuquerque ","Engineering Or Manufacturing",119666.67
+"Albuquerque ","Utilities & Telecommunications",113500.00
+"Albuquerque ","Government And Public Administration",102000.00
+"Albuquerque ",Education,85000.00
+"Albuquerque ",Health,74333.33
+"Albuquerque ","Business Or Consulting",70000.00
+"Albuquerque ","Accounting, Banking & Finance",55000.00
+"Albuquerque ",Retail,44033.50
+"Albuquerque ",Insurance,39998.00
+"Albuquerque ",Nonprofits,36900.00
+Albuquerqur,"Engineering Or Manufacturing",77000.00
+"Aldie ",Education,37400.00
+"Aldie, Va",Education,63000.00
+Alexandria,"Business Or Consulting",296750.00
+Alexandria,Education,176400.00
+Alexandria,Science/Research,160000.00
+Alexandria,"Media & Digital",144000.00
+Alexandria,Law,121500.00
+Alexandria,"Computing Or Tech",120428.57
+Alexandria,Defense,115000.00
+Alexandria,"Government And Public Administration",113293.67
+Alexandria,"Accounting, Banking & Finance",113000.00
+Alexandria,Health,111875.00
+Alexandria,"Instructional Designer",104000.00
+Alexandria,"Engineering Or Manufacturing",98581.25
+Alexandria,Nonprofits,93947.37
+Alexandria,"Information Services",77200.00
+Alexandria,"Marketing, Advertising & Pr",75142.86
+Alexandria,"Association Management",67000.00
+Alexandria,"Art & Design",64000.00
+Alexandria,"Recruitment Or Hr",63000.00
+Alexandria,"Hospitality & Events",62000.00
+Alexandria,Publishing,62000.00
+Alexandria,"Public Library",58000.00
+Alexandria,"Professional Services",56500.00
+Alexandria,Politics,45000.00
+Alexandria,Insurance,41447.00
+"Alexandria ",Health,399000.00
+"Alexandria ",Nonprofits,150000.00
+"Alexandria ",Education,111340.00
+"Alexandria ","Computing Or Tech",99600.00
+"Alexandria ","Government And Public Administration",98827.00
+"Alexandria ",Law,97000.00
+"Alexandria ","Engineering Or Manufacturing",92000.00
+"Alexandria ","Property Or Construction",72000.00
+"Alexandria ","Accounting, Banking & Finance",45000.00
+"Alexandria Va",Nonprofits,84500.00
+"Alexandria, La","Government And Public Administration",92580.00
+"Alexandria, Va","Marketing, Advertising & Pr",87000.00
+"Alexandria, Va","Government And Public Administration",71000.00
+"Alexandria, Va",Nonprofits,63000.00
+Alexandrira,"Trade Association/Membership",67000.00
+Algonac,"Engineering Or Manufacturing",54080.00
+"Alice Springs ","Social Work",49296.00
+"Aliso Viejo","Computing Or Tech",162390.00
+"Aliso Viejo","Engineering Or Manufacturing",133400.00
+"Aliso Viejo",Health,108000.00
+"Aliso Viejo","Video Games",70000.00
+"Aliso Viejo",Veterinary,34000.00
+"All Of Them","Computing Or Tech",108000.00
+"All Of Them",Rideshare,48000.00
+"All Of Them","Government And Public Administration",43000.00
+Allegan,"Libraries / Archives / Information",44335.00
+Allen,"Computing Or Tech",91500.00
+Allen,Education,52798.00
+"Allen Park",Education,48809.00
+"Allen, Tx","Utilities & Telecommunications",95900.00
+Allen/Plano,Health,65000.00
+"Allendale, Mi",Education,50000.00
+Allentown,Health,138000.00
+Allentown,"Recruitment Or Hr",110000.00
+Allentown,"Engineering Or Manufacturing",96500.00
+Allentown,"Utilities & Telecommunications",75000.00
+Allentown,"Accounting, Banking & Finance",74000.00
+Allentown,Insurance,67000.00
+Allentown,Nonprofits,47000.00
+Allentown,"Transport Or Logistics",33800.00
+"Allentown ","Leisure, Sport & Tourism",34500.00
+Alma,Health,66300.00
+Alpharetta,"Computing Or Tech",124933.33
+Alpharetta,"Utilities & Telecommunications",118000.00
+Alpharetta,Nonprofits,70000.00
+Alpharetta,"Recruitment Or Hr",66000.00
+Alpharetta,Retail,55000.00
+Alpharetta,"Transport Or Logistics",45000.00
+Alpharetta,"Government And Public Administration",45000.00
+"Alpharetta ",Unknown,120000.00
+"Alpharetta ","Utilities & Telecommunications",60000.00
+"Alpharetta ",Health,40770.00
+"Alpharetta, Ga",Health,110000.00
+"Alsace (Remote To Paris)","Business Or Consulting",67600.00
+Altadena,Construction,62400.00
+"Altamonte Springs",Retail,31200.00
+Alton,"Property Or Construction",27300.00
+"Alton ","Social Work",39000.00
+Altoona,"Accounting, Banking & Finance",97000.00
+Altus,Insurance,31200.00
+Alvarado,Education,53000.00
+Amarillo,"Utilities & Telecommunications",104269.00
+Amarillo,"Recruitment Or Hr",90000.00
+Amarillo,"Transport Or Logistics",78000.00
+Amarillo,"Computing Or Tech",70662.00
+Amarillo,Education,49000.00
+Ambler,"Engineering Or Manufacturing",76900.00
+Ambler,"Property Or Construction",72000.00
+"American Fork","Marketing, Advertising & Pr",92000.00
+Amersfoort,Publishing,43552.10
+Ames,"Government And Public Administration",68110.00
+Ames,Education,62229.80
+Ames,"Art & Design",50000.00
+Ames,Nonprofits,45520.00
+Ames,"Transport Or Logistics",36000.00
+Amesbury,"Libraries / Archives / Information",65000.00
+Amherst,Law,90000.00
+Amherst,Education,45440.00
+Amherst,"Engineering Or Manufacturing",42000.00
+"Amherst, Ma","Agriculture Or Forestry",56000.00
+Amityville,"Engineering Or Manufacturing",37440.00
+Amman,"Business Or Consulting",34000.00
+Ammon,Education,46000.00
+Amory,"Media & Digital",32000.00
+Amsterdam,"Marketing, Advertising & Pr",81200.00
+Amsterdam,"Media & Digital",81120.00
+Amsterdam,Insurance,75712.00
+Amsterdam,"Renewable Energy",74880.00
+Amsterdam,"Business Or Consulting",74880.00
+Amsterdam,"Accounting, Banking & Finance",74464.00
+Amsterdam,"Computing Or Tech",73149.18
+Amsterdam,"Government And Public Administration",67600.00
+Amsterdam,Biotech,63960.00
+Amsterdam,Entertainment,62400.00
+Amsterdam,"Engineering Or Manufacturing",52000.00
+Amsterdam,"Social Sciences Research",34369.90
+Amsterdam,Sales,29965.00
+"Amsterdam ","Engineering Or Manufacturing",87360.00
+"Amsterdam ","Fmcg Development",78000.00
+"Amsterdam ",Health,75400.00
+"Amsterdam ","Computing Or Tech",61360.00
+Amsterdsm,"Marketing, Advertising & Pr",39936.00
+"An Exact Answer Would Out Me","Computing Or Tech",116000.00
+Anaconda,Health,72000.00
+Anacortes,"Accounting, Banking & Finance",55000.00
+Anaheim,Nonprofits,120000.00
+Anaheim,Education,80000.00
+Anaheim,"Marketing, Advertising & Pr",79500.00
+Anaheim,"Property Or Construction",66500.00
+Anaheim,"Accounting, Banking & Finance",45760.00
+"Anaheim-Santa Ana-Irvine Metro Region",Insurance,54080.00
+Anchorage,Law,116666.67
+Anchorage,"Accounting, Banking & Finance",111866.67
+Anchorage,Health,111333.33
+Anchorage,Fundraising,95000.00
+Anchorage,Research,94000.00
+Anchorage,Sales,90000.00
+Anchorage,"Engineering Or Manufacturing",88481.00
+Anchorage,"Social Work",72800.00
+Anchorage,"Government And Public Administration",72273.33
+Anchorage,Nonprofits,69666.67
+Anchorage,Environmental,68000.00
+Anchorage,"Computing Or Tech",67000.00
+Anchorage,"Libraries / Archives / Information",62000.00
+Anchorage,Retail,50000.00
+"Anchorage ",Health,71040.00
+"Anchorage ",Education,64000.00
+"Anchorage ","Government And Public Administration",63000.00
+"Anchorage ","Social Work",51000.00
+"Anchorage ","Utilities & Telecommunications",44000.00
+"Anchorage ",Nonprofits,27040.00
+Anchoragr,Government,130800.00
+Anderson,Education,51000.00
+Anderson,"Computing Or Tech",40000.00
+"Anderson ","Transport Or Logistics",60000.00
+Andover,"Computing Or Tech",139000.00
+Andover,Pharmaceutical,116358.00
+Andover,"Engineering Or Manufacturing",101800.00
+Andover,Education,101000.00
+Andover,Health,69000.00
+Andover,"Accounting, Banking & Finance",64200.00
+"Andover ",Education,81600.00
+Ankeny,"Engineering Or Manufacturing",58000.00
+Ankeny,"Computing Or Tech",47840.00
+"Ann Arbor","Government And Public Administration",113500.00
+"Ann Arbor","Computing Or Tech",108459.91
+"Ann Arbor",Sales,105000.00
+"Ann Arbor","Engineering Or Manufacturing",97660.00
+"Ann Arbor","Recruitment Or Hr",91300.00
+"Ann Arbor","Business Or Consulting",90000.00
+"Ann Arbor","Accounting, Banking & Finance",89000.00
+"Ann Arbor",Biotech,80975.00
+"Ann Arbor","Public Health",76000.00
+"Ann Arbor","Media & Digital",70500.00
+"Ann Arbor",Health,70115.63
+"Ann Arbor",Academia,68500.00
+"Ann Arbor",Education,64102.19
+"Ann Arbor",Nonprofits,44572.00
+"Ann Arbor",Publishing,38500.00
+"Ann Arbor","Art & Design",31200.00
+"Ann Arbor",Retail,25000.00
+"Ann Arbor","Libraries / Archives / Information",24252.00
+"Ann Arbor ","Leisure, Sport & Tourism",54000.00
+"Ann Arbor ",Nonprofits,48000.00
+"Ann Arbor ",Education,44500.00
+"Ann Arbor Area","Engineering Or Manufacturing",65000.00
+"Ann Arbor, Michigan","Social Work",55000.00
+Annandale,"Government And Public Administration",125000.00
+Annandale,Nonprofits,110000.00
+"Annandale Va",Nonprofits,47000.00
+Annapolis,"Computing Or Tech",138000.00
+Annapolis,"Engineering Or Manufacturing",97000.00
+Annapolis,Education,96250.00
+Annapolis,Insurance,96000.00
+Annapolis,Law,89000.00
+Annapolis,Health,86000.00
+Annapolis,"Accounting, Banking & Finance",85000.00
+Annapolis,Nonprofits,66000.00
+Annapolis,"Government And Public Administration",65723.50
+"Annapolis ","Government And Public Administration",60500.00
+"Annapolis ",Entertainment,12000.00
+"Annapolis Junction","Government And Public Administration",113000.00
+"Annapolis Valley","Computing Or Tech",170000.00
+Annecy,Translation,23712.00
+Anon,Education,82000.00
+Anonymous,Education,160000.00
+Anonymous,"Libraries / Archives / Information",48028.00
+"Anonymous ","Government And Public Administration",86000.00
+"Anonymous ",Education,83000.00
+"Antrim ",Health,22750.00
+Antwerp,"Computing Or Tech",93600.00
+Antwerp,"Agriculture Or Forestry",91000.00
+Antwerp,"Business Or Consulting",66102.40
+Antwerpen,"Mining/Mineral Exploration",75920.00
+"Apache Junction","Computing Or Tech",116000.00
+"Apache Junction ",Nonprofits,31824.00
+Apex,"Computing Or Tech",190550.00
+Apex,Retail,64300.00
+"Apple Valley","Accounting, Banking & Finance",85000.00
+"Apple Valley",Education,53000.00
+Appleton,"Engineering Or Manufacturing",80000.00
+Appleton,Nonprofits,72500.00
+Appleton,"Social Work",50000.00
+Appleton,Education,46500.00
+"Appleton ","Business Or Consulting",90000.00
+"Appleton ",Health,64105.00
+"Appleton ","Accounting, Banking & Finance",62000.00
+"Appleton ","Social Work",52400.00
+"Appleton ",Retail,46000.00
+Arcadia,"Accounting, Banking & Finance",88000.00
+Arden,Sales,40300.00
+Ardmore,"Libraries / Archives / Information",26000.00
+Ardrossan,Education,58750.00
+Arkadelphia,Law,35000.00
+Arles,Education,35360.00
+Arlington,Law,163000.00
+Arlington,"Computing Or Tech",148823.38
+Arlington,"Government And Public Administration",116279.25
+Arlington,"Utilities & Telecommunications",112400.00
+Arlington,"Business Or Consulting",106750.00
+Arlington,Health,105725.00
+Arlington,"Accounting, Banking & Finance",98666.67
+Arlington,"Engineering Or Manufacturing",98500.00
+Arlington,"Media & Digital",94600.00
+Arlington,Communications,90456.00
+Arlington,"Think Tank",90280.00
+Arlington,Nonprofits,89000.68
+Arlington,"Social Work",70000.00
+Arlington,Government,68000.00
+Arlington,"Libraries / Archives / Information",63000.00
+Arlington,Insurance,60000.00
+Arlington,"Marketing, Advertising & Pr",57917.25
+Arlington,"Transport Or Logistics",57340.00
+Arlington,"Recruitment Or Hr",55000.00
+Arlington,Religion,54080.00
+Arlington,Entertainment,54000.00
+Arlington,Education,50000.00
+Arlington,"Leisure, Sport & Tourism",45000.00
+Arlington,Politics,40000.00
+"Arlington ","Oil & Gas",350000.00
+"Arlington ",Law,171912.00
+"Arlington ","Computing Or Tech",138333.33
+"Arlington ","Recruitment Or Hr",130000.00
+"Arlington ","Business Or Consulting",116466.67
+"Arlington ","Utilities & Telecommunications",102000.00
+"Arlington ","Government And Public Administration",91000.00
+"Arlington ",Insurance,60000.00
+"Arlington Heights","Public Safety ",82550.00
+"Arlington Heights","Accounting, Banking & Finance",60000.00
+"Arlington Heights","Business Or Consulting",40000.00
+"Arlington, Va","Computing Or Tech",125000.00
+"Arlington, Va","Government And Public Administration",81580.00
+"Arlington, Va (Washington D.C. Metro Area)","Media & Digital",58000.00
+Arnold,Education,80000.00
+"Arroyo Grande","Accounting, Banking & Finance",75000.00
+"Arroyo Grande","Marketing, Advertising & Pr",50000.00
+Arvada,Biotech,82000.00
+Arvada,Education,59280.00
+"Arvada ","Recruitment Or Hr",107000.00
+"Asbury Park","Media & Digital",73000.00
+Ashburn,"Government And Public Administration",86500.00
+"Ashburn ","Computing Or Tech",120000.00
+"Ashburn ","Art & Design",54000.00
+Asheboro,Education,54000.00
+Asheville,"Accounting, Banking & Finance",200000.00
+Asheville,Education,145000.00
+Asheville,"Computing Or Tech",115250.00
+Asheville,Health,90000.00
+Asheville,"Engineering Or Manufacturing",80000.00
+Asheville,"Government And Public Administration",71000.00
+Asheville,"Art & Design",63000.00
+Asheville,Retail,26000.00
+"Asheville ","Property Or Construction",95000.00
+"Asheville ",Science/Research,76000.00
+"Asheville ","Computing Or Tech",64500.00
+"Asheville ",Nonprofits,35211.00
+"Asheville, Nc","Business Or Consulting",51000.00
+"Ashford ","Engineering Or Manufacturing",28750.00
+Ashland,"Computing Or Tech",200000.00
+Ashland,"Accounting, Banking & Finance",106600.00
+Ashland,Wholesale/Distrbution,90000.00
+Ashland,Manufacturing,60800.00
+Ashland,Education,55200.00
+Ashland,Health,43680.00
+Ashland,Nonprofits,33050.00
+Ashland,Insurance,27000.00
+Asmara,"Government And Public Administration",98000.00
+Aspen,"Hospitality & Events",107000.00
+Aspen,"Property Or Construction",65000.00
+Aston,Manufacturing,70000.00
+"At Home",Education,67400.00
+Atascadero,"Transport Or Logistics",180000.00
+Athens,"Accounting, Banking & Finance",80530.00
+Athens,"Property Or Construction",67500.00
+Athens,Education,58799.82
+Athens,"Computing Or Tech",49000.00
+Athens,Health,43680.00
+Athens,"Public Library",40000.00
+Athens,"Engineering Or Manufacturing",37280.00
+Athens,"Government And Public Administration",34000.00
+Athens,"Marketing, Advertising & Pr",33000.00
+Athens,Academia,32000.00
+Athens,Retail,31200.00
+Athens,"Recruitment Or Hr",17472.00
+Athens,"Utilities & Telecommunications",11232.00
+"Athens ",Education,57000.00
+Athlone,"Marketing, Advertising & Pr",46800.00
+Athol,Nonprofits,42500.00
+Atlanta,Entertainment,273500.00
+Atlanta,Law,138380.95
+Atlanta,"Real Estate ",135000.00
+Atlanta,"Computing Or Tech",120560.31
+Atlanta,"Accounting, Banking & Finance",120234.78
+Atlanta,"Engineering Or Manufacturing",118083.60
+Atlanta,"Hospitality & Events",110500.00
+Atlanta,"Human Resources",108000.00
+Atlanta,Environmental,105000.00
+Atlanta,"Business Or Consulting",102910.30
+Atlanta,Health,99447.50
+Atlanta,Insurance,94324.29
+Atlanta,"Government And Public Administration",93966.47
+Atlanta,"Utilities & Telecommunications",90666.67
+Atlanta,"Media & Digital",86000.00
+Atlanta,"Transport Or Logistics",84583.33
+Atlanta,"Marketing, Advertising & Pr",81681.25
+Atlanta,"Commercial Real Estate",75000.00
+Atlanta,"Private Equity",75000.00
+Atlanta,Politics,72000.00
+Atlanta,"Art & Design",70800.00
+Atlanta,Retail,70103.00
+Atlanta,Education,68870.00
+Atlanta,"Libraries / Archives / Information",68100.00
+Atlanta,"Cpg / Retail",68000.00
+Atlanta,"Recruitment Or Hr",65620.44
+Atlanta,Sales,65320.00
+Atlanta,Science/Research,65000.00
+Atlanta,Wholesale/Distrbution,63073.50
+Atlanta,"Public Health",63000.00
+Atlanta,"Property Or Construction",62706.75
+Atlanta,Nonprofits,61336.96
+Atlanta,"Social Work",59666.67
+Atlanta,"Virtual Reality",55000.00
+Atlanta,"Public Health ",55000.00
+Atlanta,"Interior Design",40000.00
+Atlanta,"Restaurant/Food Service",39040.00
+Atlanta,"College Athletics",37500.00
+Atlanta,Consulting,37500.00
+Atlanta,"Awards And Engraving",35000.00
+Atlanta,Research,28500.00
+Atlanta,"Graduate Student",2350.00
+"Atlanta ",Medical,220000.00
+"Atlanta ","Government And Public Administration",126000.00
+"Atlanta ","Computing Or Tech",120333.33
+"Atlanta ","Business Or Consulting",118968.50
+"Atlanta ","Marketing, Advertising & Pr",115000.00
+"Atlanta ","Utilities & Telecommunications",95000.00
+"Atlanta ","Hospitality & Events",92000.00
+"Atlanta ",Law,87500.00
+"Atlanta ","Engineering Or Manufacturing",86500.00
+"Atlanta ","Media & Digital",70000.00
+"Atlanta ",Health,70000.00
+"Atlanta ","Accounting, Banking & Finance",69500.00
+"Atlanta ",Insurance,69000.00
+"Atlanta ","Property Or Construction",60500.00
+"Atlanta ",Education,46813.00
+"Atlanta ",Nonprofits,44000.00
+"Atlanta ","Recruitment Or Hr",42500.00
+"Atlanta ",Chaplain,40000.00
+"Atlanta ","Brain Research",28000.00
+"Atlanta ","Agriculture Or Forestry",10500.00
+"Atlanta  ","Marketing, Advertising & Pr",84000.00
+"Atlanta Metro",Education,62000.00
+"Atlanta Metro Area",Health,124000.00
+"Atlanta Metro Area",Nonprofits,73500.00
+"Atlanta Metro Area","Government And Public Administration",69500.00
+"Atlanta Metro Area","Marketing, Advertising & Pr",69500.00
+"Atlanta Metro Area",Education,44000.00
+"Atlanta Suburb","Government And Public Administration",91000.00
+"Atlanta, Ga","Media & Digital",110000.00
+"Atlanta, Ga ",Education,114000.00
+"Atlanta, Georgia","Engineering Or Manufacturing",63000.00
+Atlanta/Decatur,Education,46040.00
+"Atlantic City",Government,62000.00
+"Atlantic City","Government And Public Administration",58000.00
+"Atlantic City","Public Library",47700.00
+Attleboro,Education,67000.00
+Attleboro,Sales,65000.00
+Attleboro,Health,46425.00
+Auburn,"Accounting, Banking & Finance",108250.00
+Auburn,"Hospitality & Events",90000.00
+Auburn,Education,65640.00
+Auburn,"Government And Public Administration",54496.00
+Auburn,"Computing Or Tech",29120.00
+"Auburn ",Sales,100000.00
+"Auburn Hills",Sales,55000.00
+Auckland,"Business Or Consulting",116850.00
+Auckland,"Transport Or Logistics",97470.00
+Auckland,"Accounting, Banking & Finance",87970.00
+Auckland,"Computing Or Tech",85189.33
+Auckland,"Utilities & Telecommunications",68970.00
+Auckland,Insurance,65835.00
+Auckland,Law,61560.00
+Auckland,Education,54150.00
+Auckland,"Property Or Construction",52440.00
+Auckland,"Government And Public Administration",47983.45
+Auckland,"Art & Design",47880.00
+Auckland,"Marketing, Advertising & Pr",46388.33
+Auckland,"Engineering Or Manufacturing",39330.00
+Auckland,Nonprofits,38760.00
+"Auckland ",Law,91200.00
+"Auckland ",Manufacturing,68400.00
+"Auckland ",Sales,59850.00
+"Auckland ","Media & Digital",47880.00
+"Auckland ",Environmental,40470.00
+"Auckland ","Leisure, Sport & Tourism",31920.00
+Augusta,"Engineering Or Manufacturing",98250.00
+Augusta,"Agriculture Or Forestry",91000.00
+Augusta,Insurance,86000.00
+Augusta,Education,85000.00
+Augusta,"Transport Or Logistics",78000.00
+Augusta,"Government And Public Administration",68484.75
+Augusta,Health,61820.00
+Augusta,Nonprofits,56500.00
+Augusta,"Computing Or Tech",51000.00
+Augusta,Retail,27500.00
+"Augusta ","Computing Or Tech",62000.00
+"Augusta ",Animal,32000.00
+"Augusta - Remote","Computing Or Tech",110000.00
+"Augusta Il",Health,24900.00
+Aurora,"Computing Or Tech",167000.00
+Aurora,"Government And Public Administration",111000.00
+Aurora,Health,102235.83
+Aurora,"Engineering Or Manufacturing",92500.00
+Aurora,Retail,68250.00
+Aurora,"Clinical Research",63000.00
+Aurora,Nonprofits,57000.00
+Aurora,It,56000.00
+Aurora,Education,48000.00
+Aurora,Law,41000.00
+"Aurora ",Health,105000.00
+Austell,Health,29600.00
+Austin,Law,155621.82
+Austin,Environmental,132000.00
+Austin,"Transport Or Logistics",121666.67
+Austin,"Computing Or Tech",120352.41
+Austin,Entertainment,110000.00
+Austin,"Engineering Or Manufacturing",109307.87
+Austin,"Business Or Consulting",99681.82
+Austin,Retail,98316.67
+Austin,"Marketing, Advertising & Pr",98063.64
+Austin,"Video Games",95000.00
+Austin,"Accounting, Banking & Finance",93713.33
+Austin,Translation,93400.00
+Austin,Health,83683.27
+Austin,"Art & Design",80000.00
+Austin,Nonprofits,75829.26
+Austin,"Property Or Construction",72875.00
+Austin,Architecture,70000.00
+Austin,"Utilities & Telecommunications",70000.00
+Austin,"Government And Public Administration",69246.21
+Austin,"Gaming (Gambling)",68500.00
+Austin,Food,67000.00
+Austin,Insurance,66800.00
+Austin,"Recruitment Or Hr",66091.50
+Austin,Education,65137.45
+Austin,Music,65000.00
+Austin,Unknown,65000.00
+Austin,Consulting,65000.00
+Austin,"Media & Digital",63452.00
+Austin,"Public Health",62000.00
+Austin,"Public Library",55000.00
+Austin,Sales,54025.56
+Austin,"Social Work",53666.67
+Austin,"Real Estate ",50000.00
+Austin,Academia,48000.00
+Austin,"Agriculture Or Forestry",36500.00
+Austin,"Hospitality & Events",35360.00
+"Austin ","Accounting, Banking & Finance",150000.00
+"Austin ",Nonprofits,136000.00
+"Austin ","Computing Or Tech",117000.00
+"Austin ",Entertainment,110000.00
+"Austin ","Business Or Consulting",108000.00
+"Austin ","Engineering Or Manufacturing",104250.00
+"Austin ","Marketing, Advertising & Pr",60000.00
+"Austin / New York","Computing Or Tech",105000.00
+"Austin Metro Area","Accounting, Banking & Finance",87000.00
+"Austin Metro Area",Education,54000.00
+"Austin, Texas","Recruitment Or Hr",45000.00
+"Austin, Tx",Law,126000.00
+"Austin, Tx","Art & Design",57000.00
+"Austin, Tx ","Computing Or Tech",169000.00
+"Australia Not Sydney","Computing Or Tech",44240.00
+"Avon Lake","Computing Or Tech",62000.00
+Ayer,"Accounting, Banking & Finance",140000.00
+Ayer,Health,83200.00
+Aylesbury,"Transport Or Logistics",53750.00
+Badajoz,Translation,24960.00
+Baden-W�rttemberg,"Computing Or Tech",40560.00
+Bagdad,"Engineering Or Manufacturing",130000.00
+"Bah�a Blanca, Buenos Aires, Province Argentina",Nonprofits,24120.00
+"Bainbridge Island",Retail,32000.00
+Bakersfield,Law,125000.00
+Bakersfield,Education,45032.50
+"Ball Ground","Government And Public Administration",35570.00
+Ballarat,"Engineering Or Manufacturing",56880.00
+"Ballston Spa","Marketing, Advertising & Pr",50000.00
+Baltimore,"Business Or Consulting",150840.00
+Baltimore,"Utilities & Telecommunications",129550.00
+Baltimore,Law,126437.50
+Baltimore,Science/Research,125000.00
+Baltimore,"Engineering Or Manufacturing",124811.71
+Baltimore,"Computing Or Tech",105935.38
+Baltimore,Health,96885.58
+Baltimore,Apparel,95000.00
+Baltimore,"Leisure, Sport & Tourism",91000.00
+Baltimore,"Accounting, Banking & Finance",87681.38
+Baltimore,Education,87226.65
+Baltimore,Pharmaceutical,85000.00
+Baltimore,"Marketing, Advertising & Pr",84000.00
+Baltimore,Philanthropy,80000.00
+Baltimore,"Government And Public Administration",78972.94
+Baltimore,Nonprofits,78875.00
+Baltimore,Museums,75000.00
+Baltimore,Insurance,74592.50
+Baltimore,"Media & Digital",73793.75
+Baltimore,"Hospitality & Events",70000.00
+Baltimore,"Transport Or Logistics",69847.33
+Baltimore,"Social Work",69625.00
+Baltimore,"Recruitment Or Hr",68333.33
+Baltimore,Retail,65500.00
+Baltimore,"Art & Design",58800.00
+Baltimore,"Property Or Construction",56000.00
+Baltimore,"Libraries / Archives / Information",55000.00
+Baltimore,Manufacturing,50000.00
+Baltimore,"Agriculture Or Forestry",44106.67
+Baltimore,Coaching,44000.00
+Baltimore,Warehouse,37440.00
+Baltimore,Biotech,34000.00
+Baltimore,Environmental,58.00
+"Baltimore (But I Work Fully Remotely)","Clean Energy (Eg. Energy Efficiency, Renewables, Etc.)",200000.00
+"Baltimore Area",Education,86000.00
+"Baltimore Area",Biotech,53000.00
+"Baltimore County","Public Library",110000.00
+"Baltimore County",Education,60000.00
+"Baltimore Metro","Government And Public Administration",77000.00
+"Baltimore Metro Region, Md",Education,53000.00
+"Baltimore, Maryland","Medical Devices",96000.00
+"Baltimore, Md","Computing Or Tech",103000.00
+"Baltimore, Md","Art & Design",27040.00
+Bangalore,"Computing Or Tech",46850.00
+Bangalore,"Engineering Or Manufacturing",10000.00
+Bangalore,"Business Or Consulting",7210.00
+Bangkok,"Computing Or Tech",52000.00
+Bangkok,"Marketing, Advertising & Pr",36050.00
+Bangkok,Retail,30000.00
+Bangkok,"Engineering Or Manufacturing",12744.70
+Bangor,Science/Research,76000.00
+Bangor,Education,58500.00
+Bangor,"Engineering Or Manufacturing",45000.00
+Bangor,"Accounting, Banking & Finance",41626.67
+Bangor,Nonprofits,39000.00
+"Bangor ",Education,22000.00
+Bangot,"Social Work",28080.00
+"Banja Luka","Marketing, Advertising & Pr",6760.00
+Bannockburn,"Business Or Consulting",72500.00
+Barcelona,Entertainment,222560.00
+Barcelona,"Media & Digital",73840.00
+Barcelona,"Engineering Or Manufacturing",62400.00
+Barcelona,Health,57200.00
+Barcelona,"Game Development",49920.00
+Barcelona,"Computing Or Tech",48662.86
+Barcelona,"Recruitment Or Hr",41600.00
+Barcelona,"Transport Or Logistics",41600.00
+Barcelona,Education,41600.00
+Barcelona,"Marketing, Advertising & Pr",36920.00
+Barcelona,"Accounting, Banking & Finance",31.20
+"Barcelona ",Nonprofits,37440.00
+"Barcelona ","Hospitality & Events",24440.00
+"Barcelona ","Translation ",8320.00
+"Bardstown, Ky.  Store Is Located In Frankfort",Retail,29000.00
+Barnstable,"Government And Public Administration",72000.00
+Barnstable,"Agriculture Or Forestry",60000.00
+Barnstable,"Accounting, Banking & Finance",37700.00
+Barrie,Law,52425.00
+Barrie,"Media & Digital",50328.00
+"Barrie Ontario",Health,67104.00
+Barrington,Nonprofits,52500.00
+Bartlesville,"Oil & Gas",160000.00
+Bartlett,"Recruitment Or Hr",55000.00
+Barxelona,"Utilities & Telecommunications",59280.00
+"Based On Current Client Project","Computing Or Tech",155000.00
+Basel,"Government And Public Administration",136875.00
+Basel,Health,125925.00
+Basel,Chemical,120450.00
+Basel,Education,74460.00
+Basel,"Media & Digital",60000.00
+Basel,Retail,55.00
+Basingstoke,Aviation,65500.00
+"Basingstoke ","Computing Or Tech",93750.00
+"Basking Ridge","Utilities & Telecommunications",75000.00
+"Basking Ridge","Computing Or Tech",60000.00
+"Basking Ridge",Nonprofits,31000.00
+Batangas,"Engineering Or Manufacturing",4.50
+Batavia,"Government And Public Administration",80832.50
+Batavia,"Agriculture Or Forestry",66250.00
+Batavia,"Marketing, Advertising & Pr",35500.00
+Batesville,Medical,133000.00
+Batesville,Law,85000.00
+Bath,"Engineering Or Manufacturing",108300.00
+Bath,Defense,69000.00
+Bath,"Accounting, Banking & Finance",56250.00
+Bath,Health,46875.00
+Bath,Education,35422.50
+Bath,Childcare,23400.00
+Bathesda,"Corporate Sustainability",110000.00
+"Baton Rouge","Engineering Or Manufacturing",96262.00
+"Baton Rouge","Computing Or Tech",81600.00
+"Baton Rouge",Education,75250.00
+"Baton Rouge",Law,73000.00
+"Baton Rouge","Utilities & Telecommunications",70000.00
+"Baton Rouge","Recruitment Or Hr",67800.00
+"Baton Rouge",Entertainment,65520.00
+"Baton Rouge","Accounting, Banking & Finance",65250.00
+"Baton Rouge","Marketing, Advertising & Pr",65000.00
+"Baton Rouge","Government And Public Administration",62333.33
+"Baton Rouge",Environmental,54000.00
+"Baton Rouge",Health,43100.00
+"Baton Rouge","Media & Digital",40000.00
+"Baton Rouge ","Recruitment Or Hr",118560.00
+"Baton Rouge ","Engineering Or Manufacturing",61800.00
+"Bay Area","Computing Or Tech",238625.00
+"Bay Area",Law,235000.00
+"Bay Area",Health,191000.00
+"Bay Area",Science/Research,160000.00
+"Bay Area",Entertainment,140000.00
+"Bay Area","Video Games",130000.00
+"Bay Area",Nonprofits,125000.00
+"Bay Area",Biotech,118000.00
+"Bay Area","Property Or Construction",108000.00
+"Bay Area","Business Or Consulting",105000.00
+"Bay Area","Engineering Or Manufacturing",89500.00
+"Bay Area","Transport Or Logistics",80000.00
+"Bay Area",Insurance,80000.00
+"Bay Area","Agriculture Or Forestry",74000.00
+"Bay Area",Education,74000.00
+"Bay Area",Food,58240.00
+"Bay Area ","Social Work",170000.00
+"Bay Area ",Nonprofits,90000.00
+"Bay Area / Palo Alto",Education,85000.00
+"Bay Area, Ca","Business Or Consulting",130000.00
+"Bay City","Computing Or Tech",70000.00
+"Bay City","Transport Or Logistics",54080.00
+"Bay City",Education,45000.00
+"Bay City ","Hospitality & Events",13000.00
+"Bay Of Plenty",Insurance,37050.00
+"Bay St. Louis","Engineering Or Manufacturing",84000.00
+Bc,"Mining/Mineral Exploration",60463.50
+Bc,Education,55920.00
+Bc,Nonprofits,41800.20
+Beachwood,Law,73000.00
+Beachwood,Education,50000.00
+Beachwood,"Media & Digital",48000.00
+Beacon,"Marketing, Advertising & Pr",60000.00
+Beaufort,"Computing Or Tech",93000.00
+Beaufort,"Social Work",40000.00
+Beaumont,"Engineering Or Manufacturing",100000.00
+Beaumont,Education,67250.00
+Beaumont,"Government And Public Administration",65000.00
+Beaumont,Insurance,55000.00
+Beaumont,Retail,26100.00
+Beaverton,"Government And Public Administration",120000.00
+Beaverton,Operations,110000.00
+Beaverton,"Art & Design",93600.00
+Beaverton,"Accounting, Banking & Finance",90000.00
+Beaverton,"Marketing, Advertising & Pr",73000.00
+Beaverton,"Computing Or Tech",68625.00
+Beaverton,Retail,43130.00
+Beaverton,Nonprofits,34000.00
+"Beaverton ","Computing Or Tech",114000.00
+"Beaverton ","Hospitality & Events",104000.00
+"Beaverton ","Data Breach",56410.00
+"Beaverton, Or (Portland Suburb)",Nonprofits,67000.00
+Bedford,"Computing Or Tech",120000.00
+Bedford,"Engineering Or Manufacturing",65152.00
+Bedford,Insurance,59800.00
+"Bedford ","Computing Or Tech",43750.00
+"Bedford ",Nonprofits,40000.00
+"Bedford ","Property Or Construction",37500.00
+"Bedford, Nh","Property Or Construction",90000.00
+"Bedford, Uk",Retail,26250.00
+Bedfordshire,"Accounting, Banking & Finance",100000.00
+Bedminster,Biotech,175000.00
+Beijing,"Computing Or Tech",38526.00
+Beijing,Education,35802.00
+Belfast,Nonprofits,78000.00
+Belfast,Health,70000.00
+Belfast,"Government And Public Administration",47388.80
+Belfast,"Marketing, Advertising & Pr",43750.00
+Belfast,Environmental,43680.00
+Belfast,"Computing Or Tech",41784.38
+Belfast,"Accounting, Banking & Finance",36250.00
+Belfast,Education,30625.00
+"Belfast ",Pharmaceutical,66250.00
+"Belfast - For Context, Our Organization Has Country-Based Payscales, Not City/State",Nonprofits,83000.00
+Belleville,Law,104640.00
+Belleville,Retail,55920.00
+Bellevue,"Computing Or Tech",134230.77
+Bellevue,"Business Or Consulting",122000.00
+Bellevue,"Real Estate ",120000.00
+Bellevue,"Art & Design",115000.00
+Bellevue,Entertainment,112500.00
+Bellevue,"Recruitment Or Hr",96500.00
+Bellevue,"Utilities & Telecommunications",92562.00
+Bellevue,"Marketing, Advertising & Pr",91500.00
+Bellevue,"Government And Public Administration",90000.00
+Bellevue,Retail,75110.00
+Bellevue,Nonprofits,63428.00
+Bellevue,"Engineering Or Manufacturing",62400.00
+Bellevue,Education,46750.00
+Bellevue,"Customer Service",41600.00
+Bellevue,"Property Or Construction",40320.00
+"Bellevue ","Telecommunications ",78894.00
+"Bellevue ","Computing Or Tech",74350.00
+"Bellevue ",Health,70000.00
+"Bellevue, Wa","Utilities & Telecommunications",117000.00
+"Bellevue, Wa, US","Computing Or Tech",180000.00
+Bellingham,"Engineering Or Manufacturing",457000.00
+Bellingham,"Computing Or Tech",104525.00
+Bellingham,"Accounting, Banking & Finance",85000.00
+Bellingham,Education,80000.00
+Bellingham,Nonprofits,59000.00
+Bellingham,Health,49000.00
+Bellingham,"Property Or Construction",47840.00
+Bellingham,"Hospitality & Events",31200.00
+"Bellingham ","Government And Public Administration",93000.00
+"Bellingham (Remote)","Computing Or Tech",199000.00
+Belmont,Religion,49500.00
+Belmont,"Academic Research",36883.00
+"Belmont, Ca (Sf Bay Area)",Landscape,58240.00
+"Belo Horizonte","Computing Or Tech",135200.00
+"Belo Horizonte ","Computing Or Tech",31540.60
+Beltsville,Biotech,90000.00
+Bemidji,Law,95000.00
+Bemidji,Health,62400.00
+Bemidji,"Accounting, Banking & Finance",34500.00
+"Bemidji ","Engineering Or Manufacturing",85000.00
+Bend,"Computing Or Tech",50000.00
+Bend,Nonprofits,46960.00
+Bend,"Real Estate ",38563.00
+"Bend, Or","Management ",77625.00
+Bengaluru,Insurance,24000.00
+Bennettsville,Education,70000.00
+Bennington,Education,123000.00
+Bennington,"Computing Or Tech",120000.00
+Bennington,"Art & Design",65000.00
+Bensenville,"Property Or Construction",60000.00
+Benton,"Government And Public Administration",50000.00
+Benton,"Agriculture Or Forestry",42000.00
+"Benton Harbor","Engineering Or Manufacturing",128000.00
+"Benton Harbor ",Sales,96000.00
+Bentonville,Retail,117000.00
+Bentonville,Unknown,98000.00
+Bentonville,"Computing Or Tech",77229.50
+Bentonville,"Transport Or Logistics",52000.00
+Bentonville,Education,51000.00
+"Bentonville ","Transport Or Logistics",170000.00
+"Bentonville ","Media & Digital",47500.00
+Berea,Education,72500.00
+Bergen,Education,49920.00
+"Bergen County","Engineering Or Manufacturing",134000.00
+"Bergen County",Entertainment,118000.00
+"Bergen County",Automotive,97000.00
+"Bergen County","Government And Public Administration",45427.00
+Berkeley,"Computing Or Tech",149750.00
+Berkeley,Pharmaceutical,114000.00
+Berkeley,"Government And Public Administration",113400.00
+Berkeley,Nonprofits,111750.00
+Berkeley,"Marketing, Advertising & Pr",91500.00
+Berkeley,"Business Or Consulting",87000.00
+Berkeley,"Media & Digital",85000.00
+Berkeley,Education,64866.67
+Berkeley,University,54000.00
+Berkeley,Retail,41000.00
+"Berkeley ",Health,131000.00
+"Berkeley ","Property Or Construction",85000.00
+"Berkeley ","Leisure, Sport & Tourism",78000.00
+"Berkeley ","Computing Or Tech",74618.00
+"Berkeley ",Education,70800.00
+"Berkeley, Ca","Government And Public Administration",76000.00
+"Berkley ",Music,56000.00
+Berlin,"Transport Or Logistics",145600.00
+Berlin,"Computing Or Tech",121284.00
+Berlin,Law,90480.00
+Berlin,Pharmaceutical,85280.00
+Berlin,Health,83200.00
+Berlin,Nonprofits,78000.00
+Berlin,Education,73840.00
+Berlin,"Accounting, Banking & Finance",72800.00
+Berlin,"Marketing, Advertising & Pr",72800.00
+Berlin,"Media & Digital",63388.00
+Berlin,"Business Or Consulting",55848.00
+Berlin,Retail,53596.40
+Berlin,"Engineering Or Manufacturing",35401.60
+Berlin,"Social Work",29952.00
+Berlin,Entertainment,13520.00
+"Berlin ","Computing Or Tech",109920.00
+"Berlin ","Engineering Or Manufacturing",87360.00
+"Berlin ",Entertainment,39936.00
+"Berlin ","Government And Public Administration",37440.00
+"Berlin (Remote For Us Clients)","Marketing, Advertising & Pr",160000.00
+Berne,Health,147825.00
+Berryville,Health,38480.00
+Berwick,"Business Or Consulting",22880.00
+Berwyn,"Government And Public Administration",60345.00
+Berwyn,"Social Work",45000.00
+Bessemer,"Marketing, Advertising & Pr",70000.00
+Betavia,"Marketing, Advertising & Pr",43000.00
+Bethel,Nonprofits,51000.00
+Bethesda,Health,176350.00
+Bethesda,Law,142500.00
+Bethesda,"Computing Or Tech",129140.33
+Bethesda,"Accounting, Banking & Finance",103000.00
+Bethesda,Nonprofits,97250.00
+Bethesda,"Business Or Consulting",82071.43
+Bethesda,"Government And Public Administration",80939.25
+Bethesda,"Engineering Or Manufacturing",80000.00
+Bethesda,Science/Research,64166.67
+Bethesda,Government,59000.00
+Bethesda,Education,41050.00
+Bethesda,"Media & Digital",61.00
+"Bethesda ","Business Or Consulting",250000.00
+"Bethesda ","Government And Public Administration",155000.00
+"Bethesda ","Hospitality & Events",137000.00
+"Bethesda ",Retail,60.00
+"Bethesda Md","Computing Or Tech",135000.00
