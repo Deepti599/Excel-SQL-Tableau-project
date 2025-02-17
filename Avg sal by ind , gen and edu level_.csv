@@ -1,0 +1,554 @@
+Industry,Gender,Average_Salary
+Academia,Man,58656.00
+Academia,Woman,37930.20
+"Academic Medicine",Man,55000.00
+"Academic Publishing",Woman,49096.43
+"Academic Research",Man,71750.00
+"Academic Research","Other or prefer not to answer",50402.50
+"Academic Research",Woman,42797.36
+Accessibility,"Other or prefer not to answer",4000.00
+Accessibility,Woman,74000.00
+"Accounting, Banking & Finance",Man,102461.35
+"Accounting, Banking & Finance","Other or prefer not to answer",80639.48
+"Accounting, Banking & Finance",Woman,83334.80
+Actuarial,Woman,42640.00
+Administration,Woman,45108.75
+"Adult Education",Woman,36990.70
+Aerospace,Man,154750.00
+Aerospace,Woman,81571.08
+"Affordable Housing Real Estate Development (Nonprofit)",Woman,144200.00
+"Agriculture Or Forestry",Man,74608.23
+"Agriculture Or Forestry","Other or prefer not to answer",154524.45
+"Agriculture Or Forestry",Woman,67855.98
+Airline,Woman,80000.00
+Americorps,Woman,15400.00
+"Analytical Chemistry",Woman,56000.00
+"Analytical Lab",Woman,30368.00
+Analytics,Woman,162000.00
+Animal,Woman,70599.57
+Animation,Woman,55221.00
+Apparel,Woman,79600.00
+Archaeology,Man,60000.00
+Archaeology,"Other or prefer not to answer",110000.00
+Archaeology,Woman,67000.00
+Architecture,Man,104000.00
+Architecture,"Other or prefer not to answer",50940.00
+Architecture,Woman,77250.69
+Archives,Woman,57739.09
+"Art & Design",Man,73790.60
+"Art & Design","Other or prefer not to answer",59861.77
+"Art & Design",Woman,81200.91
+"Association Management",Woman,61333.33
+"Auction House",Woman,37500.00
+Automotive,Man,66040.00
+Automotive,"Other or prefer not to answer",31200.00
+Automotive,Woman,86758.33
+Aviation,Man,28700.00
+Aviation,Woman,70250.00
+"Awards And Engraving",Woman,35000.00
+"Background Screening",Woman,92000.00
+Beauty,Woman,77662.50
+"Beer Sales",Man,60000.00
+"Beer Sales",Woman,70000.00
+"Behavioral Health",Man,53560.00
+"Behavioral Health",Woman,71208.00
+"Benefits Administration",Man,108000.00
+"Benefits Administration",Woman,89000.00
+Beverage,Man,52600.00
+Beverage,Woman,70000.00
+"Big Pharma",Woman,220000.00
+"Bio Tech",Woman,107250.00
+"Bioinformatics ",Woman,110000.00
+Biology,Man,29000.00
+Biotech,Man,119405.24
+Biotech,"Other or prefer not to answer",81364.95
+Biotech,Woman,103938.06
+"Book Publishing",Woman,54183.33
+"Brain Research",Woman,28000.00
+Brewing,Man,57000.00
+"Business Or Consulting",Man,112021.96
+"Business Or Consulting","Other or prefer not to answer",114692.08
+"Business Or Consulting",Woman,95507.61
+Buyer,Woman,76650.00
+"Call Center",Man,70000.00
+"Call Center",Woman,25480.00
+"Cancer Research, Not For Profit",Woman,71700.00
+Cannabis,Man,65000.00
+Cannabis,Woman,68788.00
+Caregiver,Woman,40040.00
+"Cbd Manufacturing",Woman,60000.00
+Chaplain,Woman,40000.00
+Charity,Woman,21750.00
+Chemical,"Other or prefer not to answer",55883.00
+Chemical,Woman,97350.40
+Childcare,Man,25633.70
+Childcare,"Other or prefer not to answer",28100.00
+Childcare,Woman,39625.00
+"Clean Energy (Eg. Energy Efficiency, Renewables, Etc.)",Man,200000.00
+Cleaning,Woman,41600.00
+Clergy,Man,50000.00
+Clergy,Woman,62630.00
+"Clinical Research",Man,85000.00
+"Clinical Research",Woman,74368.00
+Coaching,Woman,44000.00
+"Coffee - Importing","Other or prefer not to answer",95000.00
+"College Athletics",Woman,37500.00
+"Commercial Building Material Distribution",Man,400000.00
+"Commercial Fisherman",Man,26000.00
+"Commercial Furniture",Woman,42666.67
+"Commercial Landscaping ",Woman,42840.00
+"Commercial Real Estate",Woman,71121.77
+"Commodities Trading",Woman,75000.00
+Communications,Man,76500.00
+Communications,Woman,57717.44
+"Community Management",Woman,74000.00
+Compliance,Woman,83104.33
+"Computing Or Tech",Man,131140.15
+"Computing Or Tech","Other or prefer not to answer",119831.85
+"Computing Or Tech",Woman,110561.59
+Concrete,Woman,44000.00
+Conservation,Man,45000.00
+Construction,Man,58412.86
+Construction,Woman,63165.45
+Consulting,Man,155000.00
+Consulting,"Other or prefer not to answer",71000.00
+Consulting,Woman,112500.00
+"Consumer Food Products ",Woman,145000.00
+"Consumer Goods",Man,117477.50
+"Consumer Goods",Woman,107441.33
+"Contact Center",Woman,52425.00
+"Content Review - Copyright/Dmca",Man,51000.00
+"Contract Research",Woman,83762.90
+"Corporate Accounting In Death Care (Funeral & Cemetery)",Woman,103000.00
+"Corporate Learning And Development",Woman,80000.00
+"Corporate Service Management",Woman,66000.00
+"Corporate Sustainability",Woman,98000.00
+"Corporate Training",Woman,280000.00
+"Corporate Travel Industry",Woman,91000.00
+"Cosmetology ",Woman,80000.00
+"Costruction Admin",Woman,26562.00
+Counselling,Woman,45650.00
+"Cpg / Retail",Woman,121500.00
+"Cultural Heritage",Woman,38089.60
+"Customer Service",Man,41600.00
+"Customer Service","Other or prefer not to answer",123500.00
+"Customer Service",Woman,39568.80
+"Data Analytics",Man,55000.00
+"Data Breach",Man,56410.00
+"Data Breach",Woman,100000.00
+"Data Entry",Woman,31000.00
+"Data/Institutional Research In Higher Education",Woman,57211.00
+"Daycare For Children Under 5 Years Old",Woman,12500.00
+Defense,Man,71000.00
+Defense,Woman,106670.30
+"Delivery And Installation For Commercial Machinery",Man,30000.00
+"Diagnostic Medical Devices",Man,68000.00
+Digital,Man,100000.00
+Digital,Woman,60091.67
+"Direct Support  Professional  In A Group  Home",Man,32280.00
+"Disability Services ",Woman,26544.00
+Distribution,Woman,108000.00
+"Diversity, Equity & Inclu.S.Aion ",Woman,140000.00
+"Dod Contracting",Woman,93000.00
+"Drug Development ",Man,147000.00
+E-Commerce,Man,125000.00
+E-Commerce,Woman,71417.27
+Eap,Woman,73000.00
+"Early Education","Other or prefer not to answer",40000.00
+"Early Education",Woman,69500.00
+Ecology,Woman,64500.00
+Economics,Woman,96462.00
+"Ed Tech",Woman,61635.00
+Education,Man,74062.86
+Education,"Other or prefer not to answer",57097.71
+Education,Woman,64851.73
+"Education ",Woman,100000.00
+"Emergency Management",Woman,76000.00
+Energy,Man,119426.00
+Energy,"Other or prefer not to answer",70720.00
+Energy,Woman,124312.50
+"Engineering Or Manufacturing",Man,97962.02
+"Engineering Or Manufacturing","Other or prefer not to answer",85036.82
+"Engineering Or Manufacturing",Woman,89987.29
+Entertainment,Man,101217.03
+Entertainment,"Other or prefer not to answer",272714.26
+Entertainment,Woman,95488.55
+"Entrepreneur High Net Worth ",Woman,57500.00
+Environmental,Man,65193.53
+Environmental,"Other or prefer not to answer",89000.00
+Environmental,Woman,68140.68
+"Executive Search",Woman,91000.00
+Facilities,Woman,56875.00
+Faith/Spirituality,Woman,50328.00
+"Family Office",Woman,122500.00
+Fashion,Woman,76625.00
+"Fast Food","Other or prefer not to answer",34694.00
+"Fast Food",Woman,29120.00
+Federal,Man,70000.00
+Federal,Woman,125500.00
+"Film Post-Production",Man,95000.00
+Finance,Man,200000.00
+Finance,Woman,106170.14
+Fintech,Woman,94000.00
+"Fire Protection",Woman,70000.00
+"Fmcg Development",Man,40655.00
+"Fmcg Development",Woman,78000.00
+Food,Man,71211.25
+Food,"Other or prefer not to answer",42420.00
+Food,Woman,66665.82
+"Forklift Operator Warehouse",Man,40560.00
+Freelance,Man,66000.00
+Fundraising,"Other or prefer not to answer",44000.00
+Fundraising,Woman,100073.33
+"Funeral Service",Woman,44591.33
+"Game Development",Woman,80973.33
+"Gaming (Gambling)",Man,72000.00
+"Gaming (Gambling)","Other or prefer not to answer",140000.00
+"Gaming (Gambling)",Woman,67660.00
+Geologist,Woman,181740.00
+Geospatial,Man,88007.00
+"Global Mobility",Woman,98750.00
+Government,Woman,93155.08
+"Government And Public Administration",Man,84558.92
+"Government And Public Administration","Other or prefer not to answer",61967.85
+"Government And Public Administration",Woman,77312.56
+"Graduate Student",Man,2350.00
+"Grantwriting Consultants",Woman,94000.00
+"Grocery Distribution","Other or prefer not to answer",52532.00
+"Grocery Distribution",Woman,51300.00
+"Hardware Manufacturing",Woman,95000.00
+"Haz/Ind/Rad Waste Management ",Woman,100000.00
+Health,Man,99070.40
+Health,"Other or prefer not to answer",87152.38
+Health,Woman,86790.32
+Heritage,Woman,33895.43
+"Historic Preservation",Woman,75000.00
+Horticulture,Woman,34709.60
+"Hospitality & Events",Man,62341.60
+"Hospitality & Events","Other or prefer not to answer",33633.56
+"Hospitality & Events",Woman,64470.35
+"Household Services","Other or prefer not to answer",62400.00
+"Household Services",Woman,44000.00
+Hro,Woman,64000.00
+"Human Resources",Woman,47740.60
+"I Work For Indeed.Com",Woman,68000.00
+Immigration,Woman,30057.00
+"In-House Marketing",Woman,50328.00
+"Individual & Family Services",Woman,55920.00
+Industrial,Man,67000.00
+Industrial,Woman,72500.00
+"Information Services",Man,70000.00
+"Information Services",Woman,70541.67
+"Instructional Designer",Woman,78666.67
+Insurance,Man,98822.77
+Insurance,"Other or prefer not to answer",81802.37
+Insurance,Woman,79484.91
+Intelligence,Woman,110000.00
+"Interior Design","Other or prefer not to answer",40000.00
+"Interior Design",Woman,41241.00
+"Internal Communications",Woman,100800.00
+"International Defence",Woman,78000.00
+"International Development",Man,55000.00
+"International Development",Woman,97085.94
+Internet,Woman,90820.00
+Interpretation,Woman,108600.00
+Investing,Woman,58000.00
+Ipr,Woman,1095000.00
+It,Woman,71425.71
+"It ",Man,116000.00
+Janitorial,"Other or prefer not to answer",29120.00
+Journalism,Woman,31200.00
+Labor,Woman,104748.00
+"Labor Union",Woman,102862.33
+"Laboratory Research",Man,83200.00
+"Laboratory Research",Woman,45669.00
+Landscape,Woman,56966.00
+"Language Services","Other or prefer not to answer",70000.00
+"Language Services",Woman,87000.00
+"Laundry And Rental",Woman,62000.00
+Law,Man,148101.25
+Law,"Other or prefer not to answer",82500.88
+Law,Woman,110337.72
+"Learning & Development",Man,62000.00
+"Learning & Development",Woman,68000.00
+"Legal Services",Woman,60812.50
+"Leisure, Sport & Tourism",Man,64573.63
+"Leisure, Sport & Tourism","Other or prefer not to answer",184.30
+"Leisure, Sport & Tourism",Woman,64929.44
+"Libraries / Archives / Information",Man,53077.67
+"Libraries / Archives / Information","Other or prefer not to answer",44726.53
+"Libraries / Archives / Information",Woman,56472.48
+"Life Sciences",Man,90625.00
+"Life Sciences",Woman,89749.43
+Literature,Woman,37746.00
+"Lobbying And Consulting",Man,55920.00
+"Lobbying And Consulting",Woman,75000.00
+Logistics,Woman,72775.00
+"Low-Voltage Equipment",Man,45000.00
+Maintenance,Man,87000.00
+"Management ",Woman,72469.67
+"Management Consulting",Woman,180000.00
+Manufacturing,Man,66228.20
+Manufacturing,"Other or prefer not to answer",60800.00
+Manufacturing,Woman,74858.20
+Maritime,Man,67580.00
+"Marketing, Advertising & Pr",Man,88061.03
+"Marketing, Advertising & Pr","Other or prefer not to answer",72636.66
+"Marketing, Advertising & Pr",Woman,83448.40
+"Media & Digital",Man,92566.18
+"Media & Digital","Other or prefer not to answer",69023.38
+"Media & Digital",Woman,77638.91
+Medical,Man,43524.00
+Medical,"Other or prefer not to answer",54500.00
+Medical,Woman,84514.20
+"Medical Devices",Man,96000.00
+"Medical Devices",Woman,97538.75
+"Mental Health",Woman,55896.67
+"Mental Health ",Woman,30000.00
+Military,Man,3094.00
+Military,Woman,83000.00
+"Military ",Man,55000.00
+"Military ",Woman,125000.00
+"Mining/Mineral Exploration",Man,82496.20
+"Mining/Mineral Exploration",Woman,66759.24
+Ministry,Man,42000.00
+Ministry,Woman,45875.00
+Mortgage,Woman,49666.67
+"Multilateral Organisation ",Man,250000.00
+"Municipal Library",Woman,61317.67
+Museums,Man,62449.26
+Museums,Woman,50787.70
+Music,Man,61500.00
+Music,Woman,53000.00
+"National Laboratory",Woman,115000.00
+"Natural Resources",Woman,53498.50
+Nonprofits,Man,79231.55
+Nonprofits,"Other or prefer not to answer",58712.37
+Nonprofits,Woman,70161.78
+"Nuclear Research",Man,122000.00
+"Office Administration",Woman,38700.00
+"Oil & Gas",Man,171594.69
+"Oil & Gas",Woman,89372.78
+"Online Learning",Woman,53130.67
+Operations,Woman,77500.00
+"Organizational Development ",Woman,69270.90
+"Outdoor Industry/Repair And Maintenance",Woman,37000.00
+"Outsourcing Services ",Man,90000.00
+"Outsourcing Services ",Woman,2496.00
+"Parking ",Woman,63000.00
+"Parks And Recreation, Land Management But With Customer Service Included",Woman,27460.00
+"Patent Translation",Woman,36697.50
+"Payment Processing",Woman,51156.30
+"Payroll Software",Woman,51001.00
+"Pension Benefit Administration",Man,72000.00
+"Per Sitter",Woman,43800.00
+"Performing Arts",Woman,41500.00
+"Pet Care","Other or prefer not to answer",25000.00
+"Pet Care",Woman,44615.00
+Petroleum,Woman,220000.00
+Pharmaceutical,Man,123629.69
+Pharmaceutical,"Other or prefer not to answer",84468.00
+Pharmaceutical,Woman,118861.06
+Phd,Man,23750.00
+Philanthropy,Woman,71633.33
+"Philanthropy ",Woman,98875.00
+"Physical Sciences",Man,103000.00
+Planning,Woman,72000.00
+Plumbing,Man,1590.00
+"Policy Research",Woman,82000.00
+Politics,Man,78000.00
+Politics,"Other or prefer not to answer",71000.00
+Politics,Woman,68833.33
+"Preclinical Research",Woman,82000.00
+"Print Distributor ",Man,68500.00
+"Print Distributor ",Woman,62500.00
+Printing,Man,40000.00
+Printing,Woman,61360.00
+"Private Equity",Woman,106500.00
+"Private Investigator At Large Firm",Woman,56000.00
+"Private Sector Emergency Management",Woman,115000.00
+Probiotics,Man,27500.00
+Procurement,Woman,73250.00
+"Procurement ",Woman,72960.00
+"Product Management",Man,115000.00
+"Product Management",Woman,134125.00
+"Production And Manufacturing",Woman,65000.00
+"Professional Services",Woman,71949.50
+"Project Management ",Woman,60000.00
+"Property Or Construction",Man,77587.06
+"Property Or Construction","Other or prefer not to answer",71615.27
+"Property Or Construction",Woman,67764.58
+"Protective Coatings",Man,56000.00
+Psychology,Man,60000.00
+Psychology,Woman,120000.00
+"Public Affairs / Pr ",Woman,88000.00
+"Public Health","Other or prefer not to answer",59316.33
+"Public Health",Woman,76773.90
+"Public Health ",Man,50500.00
+"Public Health ",Woman,61000.00
+"Public Library",Man,58675.00
+"Public Library","Other or prefer not to answer",43340.20
+"Public Library",Woman,55569.98
+"Public Policy",Woman,53080.00
+"Public Research",Woman,86000.00
+"Public Safety",Woman,35360.00
+"Public Safety ",Woman,82550.00
+Publishing,Man,80445.00
+Publishing,"Other or prefer not to answer",51250.00
+Publishing,Woman,56632.73
+Purchasing,Woman,86200.00
+"Purchasing ",Woman,55000.00
+"Quality Assurance",Man,38700.00
+"Quality Assurance",Woman,45085.50
+R&D,Woman,110000.00
+"Real Estate ",Man,92494.17
+"Real Estate ","Other or prefer not to answer",34881.50
+"Real Estate ",Woman,67715.64
+"Real World Evidence (Data For Pharma Research)",Man,181290.00
+"Recruitment Or Hr",Man,80457.81
+"Recruitment Or Hr","Other or prefer not to answer",67052.48
+"Recruitment Or Hr",Woman,76965.02
+"Regulatory Affairs",Man,75000.00
+"Regulatory Affairs",Woman,70980.00
+Religion,Man,76500.00
+Religion,Woman,48740.00
+"Renewable Energy",Man,170000.00
+"Renewable Energy","Other or prefer not to answer",71077.00
+"Renewable Energy",Woman,96875.71
+"Repair Facility For Heavy Duty Trucks","Other or prefer not to answer",65000.00
+Research,Man,60913.97
+Research,"Other or prefer not to answer",87000.00
+Research,Woman,73283.37
+"Restaurant/Food Service",Man,22100.00
+"Restaurant/Food Service","Other or prefer not to answer",38404.40
+"Restaurant/Food Service",Woman,72272.00
+Restoration,Woman,184000.00
+Retail,Man,71047.57
+Retail,"Other or prefer not to answer",39495.47
+Retail,Woman,56790.27
+Retired,Woman,13000.00
+Rideshare,Woman,48000.00
+"Rural Electrification",Woman,60000.00
+Saas,Man,72809.50
+Saas,Woman,111840.00
+"Sailing Instructor",Woman,41600.00
+Sales,Man,99769.37
+Sales,"Other or prefer not to answer",38406.67
+Sales,Woman,74288.09
+"School District Pre-K-12",Woman,40200.00
+Science/Research,Man,93647.81
+Science/Research,"Other or prefer not to answer",43759.50
+Science/Research,Woman,69309.14
+Security,Woman,47676.00
+Service,Woman,60500.00
+"Shared Office Space",Woman,48000.00
+"Sign Language Interpreter, Community",Woman,124800.00
+"Skilled Trade ",Woman,55920.00
+"Social Networks","Other or prefer not to answer",2000000.00
+"Social Sciences Research",Woman,72342.48
+"Social Work",Man,59610.80
+"Social Work","Other or prefer not to answer",57249.55
+"Social Work",Woman,54811.18
+Software,Man,146000.00
+Software,"Other or prefer not to answer",48930.00
+Software,Woman,121242.86
+"Software Products",Woman,115000.00
+Soldier,Man,62910.00
+"Sourcing & Procurement",Woman,105000.00
+Space,Woman,52425.00
+"Specialist Clothing",Woman,90000.00
+"Specialist Policy Consulting/Research",Woman,31250.00
+Sports,Man,300000.00
+Staffing,Man,60000.00
+Staffing,Woman,82433.33
+"State And Federal Contractor",Woman,75000.00
+"State Dot",Man,45000.00
+"State-Level Public Transportation Agency",Man,116000.00
+"Stay-At-Home Parent",Woman,0.00
+"Stem Medical Research",Woman,40000.00
+"Stem Research",Woman,87260.00
+"Storage Facility ",Woman,120000.00
+Strategy,Woman,150000.00
+"Strategy Consulting",Woman,195000.00
+"Student Paid Intern In Computing",Woman,27960.00
+"Subsidized Seniors Housing",Woman,31455.00
+"Summer Camp",Woman,52000.00
+"Supply Chain",Man,98736.00
+"Supply Chain","Other or prefer not to answer",16000.00
+"Supply Chain",Woman,95326.00
+"Survey Methodology",Woman,71000.00
+"Survey Research/Public Policy Research",Woman,76000.00
+Surveying,Man,46280.00
+"Surveying ",Man,53720.00
+"Synthetic Chemical Manufacturing",Woman,103000.00
+"Tabletop Games Publishing",Man,42000.00
+"Tabletop Gaming",Man,31350.20
+"Tailoring Service",Woman,35360.00
+Tech,Woman,126000.00
+"Technical Writing",Woman,92000.00
+Technical/Cybersecurity,Woman,190000.00
+Technical/It,Woman,97000.00
+Technology,Man,58000.00
+Technology,Woman,151500.00
+"Technology ",Woman,98000.00
+Technology/Saas,Woman,87500.00
+Telecommunications,Woman,55221.00
+"Telecommunications ",Woman,78894.00
+"Telecommunications (Gps)",Woman,84500.00
+"Textbook Copyeditor",Man,56160.00
+Theatre,Woman,25000.00
+"Think Tank",Woman,73140.00
+"Third Sector/Non Profit - Medical Membership In Uk",Woman,51507.50
+"Tic (Testing, Inspection & Certification)",Man,42500.00
+"Title/Real Estate ","Other or prefer not to answer",62500.00
+Tourism,Woman,39469.65
+Toxicology,Woman,57000.00
+"Trade Association/Membership",Woman,112313.42
+Training,Man,62001.30
+Training,Woman,88000.00
+"Training And Professional Services",Woman,68700.00
+Translation,Man,36480.00
+Translation,"Other or prefer not to answer",41059.00
+Translation,Woman,42405.56
+"Translation ",Woman,34160.00
+"Translation And Localization",Woman,43000.00
+Translation/Transcription,Man,38000.00
+"Transport Or Logistics",Man,80570.61
+"Transport Or Logistics","Other or prefer not to answer",57225.09
+"Transport Or Logistics",Woman,71005.21
+Travel,Man,118750.00
+"Travel ",Woman,145000.00
+"Undergrad Student",Man,10000.00
+"Union/Political Organizing ",Woman,103586.00
+Unions,Man,80000.00
+University,"Other or prefer not to answer",54000.00
+University,Woman,36840.43
+Unknown,Man,73283.33
+Unknown,"Other or prefer not to answer",49001.35
+Unknown,Woman,70087.53
+"Urban Planning",Woman,81944.63
+"User Experience Design","Other or prefer not to answer",140000.00
+"Utilities & Telecommunications",Man,1101840.10
+"Utilities & Telecommunications","Other or prefer not to answer",60529.11
+"Utilities & Telecommunications",Woman,80248.45
+"Ux Research ",Woman,108000.00
+Veterinary,Man,61250.00
+Veterinary,"Other or prefer not to answer",34000.00
+Veterinary,Woman,66969.32
+"Video Games",Man,93333.33
+"Video Games","Other or prefer not to answer",80000.00
+"Video Games",Woman,53369.54
+"Virtual Assisting ",Woman,41600.00
+"Virtual Reality",Woman,55000.00
+Warehouse,Man,43458.33
+Warehouse,Woman,41646.67
+"Waste Management ","Other or prefer not to answer",37000.00
+"Waste Management ",Woman,140000.00
+"Wealth Advisor Research",Woman,50000.00
+Wholesale/Distrbution,Man,67788.25
+Wholesale/Distrbution,Woman,54772.50
+Wine,Woman,75812.50
+"Winery Regulatory Compliance ",Woman,61500.00
+"Workforce Development ",Woman,52000.00
+Zoo,Man,37419.00
+Zoo,Woman,58000.00
