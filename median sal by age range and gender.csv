@@ -1,0 +1,21 @@
+Age_Range,Gender,Median_Salary
+18-24,Man,47500.00
+18-24,"Other or prefer not to answer",39520.00
+18-24,Woman,50000.00
+25-34,Man,78000.00
+25-34,"Other or prefer not to answer",57500.00
+25-34,Woman,65007.00
+35-44,Man,101000.00
+35-44,"Other or prefer not to answer",78000.00
+35-44,Woman,77300.00
+45-54,Man,115335.00
+45-54,"Other or prefer not to answer",90000.00
+45-54,Woman,79686.00
+55-64,Man,114400.00
+55-64,"Other or prefer not to answer",105000.00
+55-64,Woman,75000.00
+"65 or over",Man,104000.00
+"65 or over","Other or prefer not to answer",2000000.00
+"65 or over",Woman,83880.00
+"under 18","Other or prefer not to answer",22753.80
+"under 18",Woman,45000.00
